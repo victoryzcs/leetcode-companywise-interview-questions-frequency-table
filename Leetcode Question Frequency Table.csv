@@ -1,0 +1,1153 @@
+,Title,Difficulty,URL,count
+1,Two Sum,Easy,/problems/two-sum,39
+3,Longest Substring Without Repeating Characters,Medium,/problems/longest-substring-without-repeating-characters,32
+146,LRU Cache,Medium,/problems/lru-cache,32
+56,Merge Intervals,Medium,/problems/merge-intervals,28
+121,Best Time to Buy and Sell Stock,Easy,/problems/best-time-to-buy-and-sell-stock,28
+20,Valid Parentheses,Easy,/problems/valid-parentheses,27
+200,Number of Islands,Medium,/problems/number-of-islands,27
+49,Group Anagrams,Medium,/problems/group-anagrams,23
+22,Generate Parentheses,Medium,/problems/generate-parentheses,20
+5,Longest Palindromic Substring,Medium,/problems/longest-palindromic-substring,18
+15,3Sum,Medium,/problems/3sum,17
+53,Maximum Subarray,Medium,/problems/maximum-subarray,17
+42,Trapping Rain Water,Hard,/problems/trapping-rain-water,17
+14,Longest Common Prefix,Easy,/problems/longest-common-prefix,16
+48,Rotate Image,Medium,/problems/rotate-image,16
+88,Merge Sorted Array,Easy,/problems/merge-sorted-array,16
+4,Median of Two Sorted Arrays,Hard,/problems/median-of-two-sorted-arrays,16
+560,Subarray Sum Equals K,Medium,/problems/subarray-sum-equals-k,15
+68,Text Justification,Hard,/problems/text-justification,15
+347,Top K Frequent Elements,Medium,/problems/top-k-frequent-elements,15
+2,Add Two Numbers,Medium,/problems/add-two-numbers,14
+21,Merge Two Sorted Lists,Easy,/problems/merge-two-sorted-lists,14
+54,Spiral Matrix,Medium,/problems/spiral-matrix,14
+236,Lowest Common Ancestor of a Binary Tree,Medium,/problems/lowest-common-ancestor-of-a-binary-tree,14
+23,Merge k Sorted Lists,Hard,/problems/merge-k-sorted-lists,14
+380,Insert Delete GetRandom O(1),Medium,/problems/insert-delete-getrandom-o1,14
+91,Decode Ways,Medium,/problems/decode-ways,14
+31,Next Permutation,Medium,/problems/next-permutation,13
+13,Roman to Integer,Easy,/problems/roman-to-integer,13
+387,First Unique Character in a String,Easy,/problems/first-unique-character-in-a-string,13
+7,Reverse Integer,Medium,/problems/reverse-integer,13
+41,First Missing Positive,Hard,/problems/first-missing-positive,13
+207,Course Schedule,Medium,/problems/course-schedule,13
+394,Decode String,Medium,/problems/decode-string,13
+79,Word Search,Medium,/problems/word-search,13
+124,Binary Tree Maximum Path Sum,Hard,/problems/binary-tree-maximum-path-sum,12
+215,Kth Largest Element in an Array,Medium,/problems/kth-largest-element-in-an-array,12
+695,Max Area of Island,Medium,/problems/max-area-of-island,12
+994,Rotting Oranges,Medium,/problems/rotting-oranges,12
+103,Binary Tree Zigzag Level Order Traversal,Medium,/problems/binary-tree-zigzag-level-order-traversal,12
+206,Reverse Linked List,Easy,/problems/reverse-linked-list,12
+238,Product of Array Except Self,Medium,/problems/product-of-array-except-self,12
+17,Letter Combinations of a Phone Number,Medium,/problems/letter-combinations-of-a-phone-number,12
+127,Word Ladder,Hard,/problems/word-ladder,12
+46,Permutations,Medium,/problems/permutations,12
+33,Search in Rotated Sorted Array,Medium,/problems/search-in-rotated-sorted-array,12
+217,Contains Duplicate,Easy,/problems/contains-duplicate,12
+443,String Compression,Medium,/problems/string-compression,12
+62,Unique Paths,Medium,/problems/unique-paths,12
+210,Course Schedule II,Medium,/problems/course-schedule-ii,12
+34,Find First and Last Position of Element in Sorted Array,Medium,/problems/find-first-and-last-position-of-element-in-sorted-array,12
+45,Jump Game II,Medium,/problems/jump-game-ii,12
+39,Combination Sum,Medium,/problems/combination-sum,11
+139,Word Break,Medium,/problems/word-break,11
+50,"Pow(x, n)",Medium,/problems/powx-n,11
+84,Largest Rectangle in Histogram,Hard,/problems/largest-rectangle-in-histogram,11
+76,Minimum Window Substring,Hard,/problems/minimum-window-substring,11
+75,Sort Colors,Medium,/problems/sort-colors,11
+239,Sliding Window Maximum,Hard,/problems/sliding-window-maximum,11
+283,Move Zeroes,Easy,/problems/move-zeroes,11
+212,Word Search II,Hard,/problems/word-search-ii,11
+19,Remove Nth Node From End of List,Medium,/problems/remove-nth-node-from-end-of-list,11
+509,Fibonacci Number,Easy,/problems/fibonacci-number,11
+692,Top K Frequent Words,Medium,/problems/top-k-frequent-words,11
+322,Coin Change,Medium,/problems/coin-change,11
+234,Palindrome Linked List,Easy,/problems/palindrome-linked-list,10
+253,Meeting Rooms II,Medium,/problems/meeting-rooms-ii,10
+36,Valid Sudoku,Medium,/problems/valid-sudoku,10
+12,Integer to Roman,Medium,/problems/integer-to-roman,10
+70,Climbing Stairs,Easy,/problems/climbing-stairs,10
+198,House Robber,Medium,/problems/house-robber,10
+125,Valid Palindrome,Easy,/problems/valid-palindrome,10
+98,Validate Binary Search Tree,Medium,/problems/validate-binary-search-tree,10
+295,Find Median from Data Stream,Hard,/problems/find-median-from-data-stream,10
+300,Longest Increasing Subsequence,Medium,/problems/longest-increasing-subsequence,10
+35,Search Insert Position,Easy,/problems/search-insert-position,10
+1010,Pairs of Songs With Total Durations Divisible by 60,Medium,/problems/pairs-of-songs-with-total-durations-divisible-by-60,9
+724,Find Pivot Index,Easy,/problems/find-pivot-index,9
+863,All Nodes Distance K in Binary Tree,Medium,/problems/all-nodes-distance-k-in-binary-tree,9
+875,Koko Eating Bananas,Medium,/problems/koko-eating-bananas,9
+540,Single Element in a Sorted Array,Medium,/problems/single-element-in-a-sorted-array,9
+297,Serialize and Deserialize Binary Tree,Hard,/problems/serialize-and-deserialize-binary-tree,9
+38,Count and Say,Medium,/problems/count-and-say,9
+55,Jump Game,Medium,/problems/jump-game,9
+9,Palindrome Number,Easy,/problems/palindrome-number,9
+981,Time Based Key-Value Store,Medium,/problems/time-based-key-value-store,9
+25,Reverse Nodes in k-Group,Hard,/problems/reverse-nodes-in-k-group,9
+399,Evaluate Division,Medium,/problems/evaluate-division,9
+11,Container With Most Water,Medium,/problems/container-with-most-water,9
+118,Pascal's Triangle,Easy,/problems/pascals-triangle,9
+354,Russian Doll Envelopes,Hard,/problems/russian-doll-envelopes,9
+362,Design Hit Counter,Medium,/problems/design-hit-counter,9
+242,Valid Anagram,Easy,/problems/valid-anagram,8
+189,Rotate Array,Medium,/problems/rotate-array,8
+704,Binary Search,Easy,/problems/binary-search,8
+224,Basic Calculator,Hard,/problems/basic-calculator,8
+227,Basic Calculator II,Medium,/problems/basic-calculator-ii,8
+135,Candy,Hard,/problems/candy,8
+167,Two Sum II - Input Array Is Sorted,Medium,/problems/two-sum-ii-input-array-is-sorted,8
+162,Find Peak Element,Medium,/problems/find-peak-element,8
+149,Max Points on a Line,Hard,/problems/max-points-on-a-line,8
+647,Palindromic Substrings,Medium,/problems/palindromic-substrings,8
+329,Longest Increasing Path in a Matrix,Hard,/problems/longest-increasing-path-in-a-matrix,8
+1209,Remove All Adjacent Duplicates in String II,Medium,/problems/remove-all-adjacent-duplicates-in-string-ii,8
+273,Integer to English Words,Hard,/problems/integer-to-english-words,8
+658,Find K Closest Elements,Medium,/problems/find-k-closest-elements,8
+191,Number of 1 Bits,Easy,/problems/number-of-1-bits,8
+2235,Add Two Integers,Easy,/problems/add-two-integers,8
+8,String to Integer (atoi),Medium,/problems/string-to-integer-atoi,8
+37,Sudoku Solver,Hard,/problems/sudoku-solver,8
+26,Remove Duplicates from Sorted Array,Easy,/problems/remove-duplicates-from-sorted-array,8
+122,Best Time to Buy and Sell Stock II,Medium,/problems/best-time-to-buy-and-sell-stock-ii,8
+16,3Sum Closest,Medium,/problems/3sum-closest,8
+1293,Shortest Path in a Grid with Obstacles Elimination,Hard,/problems/shortest-path-in-a-grid-with-obstacles-elimination,8
+72,Edit Distance,Hard,/problems/edit-distance,8
+787,Cheapest Flights Within K Stops,Medium,/problems/cheapest-flights-within-k-stops,7
+29,Divide Two Integers,Medium,/problems/divide-two-integers,7
+739,Daily Temperatures,Medium,/problems/daily-temperatures,7
+733,Flood Fill,Easy,/problems/flood-fill,7
+213,House Robber II,Medium,/problems/house-robber-ii,7
+78,Subsets,Medium,/problems/subsets,7
+74,Search a 2D Matrix,Medium,/problems/search-a-2d-matrix,7
+226,Invert Binary Tree,Easy,/problems/invert-binary-tree,7
+69,Sqrt(x),Easy,/problems/sqrtx,7
+344,Reverse String,Easy,/problems/reverse-string,7
+202,Happy Number,Easy,/problems/happy-number,7
+595,Big Countries,Easy,/problems/big-countries,7
+64,Minimum Path Sum,Medium,/problems/minimum-path-sum,7
+268,Missing Number,Easy,/problems/missing-number,7
+57,Insert Interval,Medium,/problems/insert-interval,7
+278,First Bad Version,Easy,/problems/first-bad-version,7
+987,Vertical Order Traversal of a Binary Tree,Hard,/problems/vertical-order-traversal-of-a-binary-tree,7
+51,N-Queens,Hard,/problems/n-queens,7
+827,Making A Large Island,Hard,/problems/making-a-large-island,7
+221,Maximal Square,Medium,/problems/maximal-square,7
+871,Minimum Number of Refueling Stops,Hard,/problems/minimum-number-of-refueling-stops,7
+205,Isomorphic Strings,Easy,/problems/isomorphic-strings,7
+28,Find the Index of the First Occurrence in a String,Medium,/problems/find-the-index-of-the-first-occurrence-in-a-string,7
+104,Maximum Depth of Binary Tree,Easy,/problems/maximum-depth-of-binary-tree,7
+143,Reorder List,Medium,/problems/reorder-list,7
+136,Single Number,Easy,/problems/single-number,7
+101,Symmetric Tree,Easy,/problems/symmetric-tree,7
+153,Find Minimum in Rotated Sorted Array,Medium,/problems/find-minimum-in-rotated-sorted-array,7
+412,Fizz Buzz,Easy,/problems/fizz-buzz,7
+410,Split Array Largest Sum,Hard,/problems/split-array-largest-sum,7
+134,Gas Station,Medium,/problems/gas-station,7
+152,Maximum Product Subarray,Medium,/problems/maximum-product-subarray,7
+438,Find All Anagrams in a String,Medium,/problems/find-all-anagrams-in-a-string,7
+97,Interleaving String,Medium,/problems/interleaving-string,7
+442,Find All Duplicates in an Array,Medium,/problems/find-all-duplicates-in-an-array,7
+128,Longest Consecutive Sequence,Medium,/problems/longest-consecutive-sequence,7
+697,Degree of an Array,Easy,/problems/degree-of-an-array,7
+179,Largest Number,Medium,/problems/largest-number,7
+383,Ransom Note,Easy,/problems/ransom-note,7
+1048,Longest String Chain,Medium,/problems/longest-string-chain,7
+1004,Max Consecutive Ones III,Medium,/problems/max-consecutive-ones-iii,7
+852,Peak Index in a Mountain Array,Medium,/problems/peak-index-in-a-mountain-array,6
+312,Burst Balloons,Hard,/problems/burst-balloons,6
+528,Random Pick with Weight,Medium,/problems/random-pick-with-weight,6
+208,Implement Trie (Prefix Tree),Medium,/problems/implement-trie-prefix-tree,6
+2035,Partition Array Into Two Arrays to Minimize Sum Difference,Hard,/problems/partition-array-into-two-arrays-to-minimize-sum-difference,6
+416,Partition Equal Subset Sum,Medium,/problems/partition-equal-subset-sum,6
+332,Reconstruct Itinerary,Hard,/problems/reconstruct-itinerary,6
+934,Shortest Bridge,Medium,/problems/shortest-bridge,6
+10,Regular Expression Matching,Hard,/problems/regular-expression-matching,6
+523,Continuous Subarray Sum,Medium,/problems/continuous-subarray-sum,6
+269,Alien Dictionary,Hard,/problems/alien-dictionary,6
+392,Is Subsequence,Easy,/problems/is-subsequence,6
+155,Min Stack,Medium,/problems/min-stack,6
+557,Reverse Words in a String III,Easy,/problems/reverse-words-in-a-string-iii,6
+67,Add Binary,Easy,/problems/add-binary,6
+43,Multiply Strings,Medium,/problems/multiply-strings,6
+811,Subdomain Visit Count,Medium,/problems/subdomain-visit-count,6
+66,Plus One,Easy,/problems/plus-one,6
+977,Squares of a Sorted Array,Easy,/problems/squares-of-a-sorted-array,6
+169,Majority Element,Easy,/problems/majority-element,6
+359,Logger Rate Limiter,Easy,/problems/logger-rate-limiter,6
+92,Reverse Linked List II,Medium,/problems/reverse-linked-list-ii,6
+301,Remove Invalid Parentheses,Hard,/problems/remove-invalid-parentheses,6
+735,Asteroid Collision,Medium,/problems/asteroid-collision,6
+199,Binary Tree Right Side View,Medium,/problems/binary-tree-right-side-view,6
+151,Reverse Words in a String,Medium,/problems/reverse-words-in-a-string,6
+150,Evaluate Reverse Polish Notation,Medium,/problems/evaluate-reverse-polish-notation,6
+126,Word Ladder II,Hard,/problems/word-ladder-ii,6
+694,Number of Distinct Islands,Medium,/problems/number-of-distinct-islands,6
+71,Simplify Path,Medium,/problems/simplify-path,6
+237,Delete Node in a Linked List,Medium,/problems/delete-node-in-a-linked-list,6
+353,Design Snake Game,Medium,/problems/design-snake-game,6
+235,Lowest Common Ancestor of a Binary Search Tree,Medium,/problems/lowest-common-ancestor-of-a-binary-search-tree,6
+105,Construct Binary Tree from Preorder and Inorder Traversal,Medium,/problems/construct-binary-tree-from-preorder-and-inorder-traversal,6
+1197,Minimum Knight Moves,Medium,/problems/minimum-knight-moves,6
+138,Copy List with Random Pointer,Medium,/problems/copy-list-with-random-pointer,6
+1143,Longest Common Subsequence,Medium,/problems/longest-common-subsequence,6
+785,Is Graph Bipartite?,Medium,/problems/is-graph-bipartite,6
+287,Find the Duplicate Number,Medium,/problems/find-the-duplicate-number,6
+1235,Maximum Profit in Job Scheduling,Hard,/problems/maximum-profit-in-job-scheduling,6
+240,Search a 2D Matrix II,Medium,/problems/search-a-2d-matrix-ii,6
+1480,Running Sum of 1d Array,Easy,/problems/running-sum-of-1d-array,5
+772,Basic Calculator III,Hard,/problems/basic-calculator-iii,5
+1207,Unique Number of Occurrences,Easy,/problems/unique-number-of-occurrences,5
+503,Next Greater Element II,Medium,/problems/next-greater-element-ii,5
+1192,Critical Connections in a Network,Hard,/problems/critical-connections-in-a-network,5
+529,Minesweeper,Medium,/problems/minesweeper,5
+493,Reverse Pairs,Hard,/problems/reverse-pairs,5
+437,Path Sum III,Medium,/problems/path-sum-iii,5
+460,LFU Cache,Hard,/problems/lfu-cache,5
+1472,Design Browser History,Medium,/problems/design-browser-history,5
+543,Diameter of Binary Tree,Easy,/problems/diameter-of-binary-tree,5
+73,Set Matrix Zeroes,Medium,/problems/set-matrix-zeroes,5
+722,Remove Comments,Medium,/problems/remove-comments,5
+1929,Concatenation of Array,Easy,/problems/concatenation-of-array,5
+1570,Dot Product of Two Sparse Vectors,Medium,/problems/dot-product-of-two-sparse-vectors,5
+706,Design HashMap,Easy,/problems/design-hashmap,5
+415,Add Strings,Easy,/problems/add-strings,5
+642,Design Search Autocomplete System,Hard,/problems/design-search-autocomplete-system,5
+141,Linked List Cycle,Easy,/problems/linked-list-cycle,5
+489,Robot Room Cleaner,Hard,/problems/robot-room-cleaner,5
+44,Wildcard Matching,Hard,/problems/wildcard-matching,5
+428,Serialize and Deserialize N-ary Tree,Hard,/problems/serialize-and-deserialize-n-ary-tree,5
+698,Partition to K Equal Sum Subsets,Medium,/problems/partition-to-k-equal-sum-subsets,5
+468,Validate IP Address,Medium,/problems/validate-ip-address,5
+463,Island Perimeter,Easy,/problems/island-perimeter,5
+279,Perfect Squares,Medium,/problems/perfect-squares,5
+621,Task Scheduler,Medium,/problems/task-scheduler,5
+378,Kth Smallest Element in a Sorted Matrix,Medium,/problems/kth-smallest-element-in-a-sorted-matrix,5
+1547,Minimum Cost to Cut a Stick,Hard,/problems/minimum-cost-to-cut-a-stick,5
+1268,Search Suggestions System,Medium,/problems/search-suggestions-system,5
+116,Populating Next Right Pointers in Each Node,Medium,/problems/populating-next-right-pointers-in-each-node,5
+94,Binary Tree Inorder Traversal,Easy,/problems/binary-tree-inorder-traversal,5
+90,Subsets II,Medium,/problems/subsets-ii,5
+334,Increasing Triplet Subsequence,Medium,/problems/increasing-triplet-subsequence,5
+967,Numbers With Same Consecutive Differences,Medium,/problems/numbers-with-same-consecutive-differences,5
+86,Partition List,Medium,/problems/partition-list,5
+1356,Sort Integers by The Number of 1 Bits,Easy,/problems/sort-integers-by-the-number-of-1-bits,5
+83,Remove Duplicates from Sorted List,Easy,/problems/remove-duplicates-from-sorted-list,5
+992,Subarrays with K Different Integers,Hard,/problems/subarrays-with-k-different-integers,5
+61,Rotate List,Medium,/problems/rotate-list,5
+973,K Closest Points to Origin,Medium,/problems/k-closest-points-to-origin,5
+315,Count of Smaller Numbers After Self,Hard,/problems/count-of-smaller-numbers-after-self,5
+219,Contains Duplicate II,Easy,/problems/contains-duplicate-ii,5
+1512,Number of Good Pairs,Easy,/problems/number-of-good-pairs,5
+140,Word Break II,Hard,/problems/word-break-ii,5
+1710,Maximum Units on a Truck,Easy,/problems/maximum-units-on-a-truck,5
+32,Longest Valid Parentheses,Hard,/problems/longest-valid-parentheses,5
+341,Flatten Nested List Iterator,Medium,/problems/flatten-nested-list-iterator,5
+346,Moving Average from Data Stream,Easy,/problems/moving-average-from-data-stream,5
+395,Longest Substring with At Least K Repeating Characters,Medium,/problems/longest-substring-with-at-least-k-repeating-characters,5
+779,K-th Symbol in Grammar,Medium,/problems/k-th-symbol-in-grammar,5
+767,Reorganize String,Medium,/problems/reorganize-string,5
+424,Longest Repeating Character Replacement,Medium,/problems/longest-repeating-character-replacement,5
+419,Battleships in a Board,Medium,/problems/battleships-in-a-board,5
+230,Kth Smallest Element in a BST,Medium,/problems/kth-smallest-element-in-a-bst,5
+417,Pacific Atlantic Water Flow,Medium,/problems/pacific-atlantic-water-flow,5
+718,Maximum Length of Repeated Subarray,Medium,/problems/maximum-length-of-repeated-subarray,5
+912,Sort an Array,Medium,/problems/sort-an-array,5
+231,Power of Two,Easy,/problems/power-of-two,5
+430,Flatten a Multilevel Doubly Linked List,Medium,/problems/flatten-a-multilevel-doubly-linked-list,5
+1249,Minimum Remove to Make Valid Parentheses,Medium,/problems/minimum-remove-to-make-valid-parentheses,5
+100,Same Tree,Easy,/problems/same-tree,5
+18,4Sum,Medium,/problems/4sum,5
+173,Binary Search Tree Iterator,Medium,/problems/binary-search-tree-iterator,5
+27,Remove Element,Easy,/problems/remove-element,5
+680,Valid Palindrome II,Easy,/problems/valid-palindrome-ii,5
+6,Zigzag Conversion,Medium,/problems/zigzag-conversion,5
+611,Valid Triangle Number,Medium,/problems/valid-triangle-number,4
+496,Next Greater Element I,Easy,/problems/next-greater-element-i,4
+102,Binary Tree Level Order Traversal,Medium,/problems/binary-tree-level-order-traversal,4
+1011,Capacity To Ship Packages Within D Days,Medium,/problems/capacity-to-ship-packages-within-d-days,4
+148,Sort List,Medium,/problems/sort-list,4
+588,Design In-Memory File System,Hard,/problems/design-in-memory-file-system,4
+662,Maximum Width of Binary Tree,Medium,/problems/maximum-width-of-binary-tree,4
+1326,Minimum Number of Taps to Open to Water a Garden,Hard,/problems/minimum-number-of-taps-to-open-to-water-a-garden,4
+218,The Skyline Problem,Hard,/problems/the-skyline-problem,4
+113,Path Sum II,Medium,/problems/path-sum-ii,4
+453,Minimum Moves to Equal Array Elements,Medium,/problems/minimum-moves-to-equal-array-elements,4
+2115,Find All Possible Recipes from Given Supplies,Medium,/problems/find-all-possible-recipes-from-given-supplies,4
+180,Consecutive Numbers,Medium,/problems/consecutive-numbers,4
+628,Maximum Product of Three Numbers,Easy,/problems/maximum-product-of-three-numbers,4
+1091,Shortest Path in Binary Matrix,Medium,/problems/shortest-path-in-binary-matrix,4
+160,Intersection of Two Linked Lists,Easy,/problems/intersection-of-two-linked-lists,4
+869,Reordered Power of 2,Medium,/problems/reordered-power-of-2,4
+381,Insert Delete GetRandom O(1) - Duplicates allowed,Hard,/problems/insert-delete-getrandom-o1-duplicates-allowed,4
+204,Count Primes,Medium,/problems/count-primes,4
+2096,Step-By-Step Directions From a Binary Tree Node to Another,Medium,/problems/step-by-step-directions-from-a-binary-tree-node-to-another,4
+622,Design Circular Queue,Medium,/problems/design-circular-queue,4
+1642,Furthest Building You Can Reach,Medium,/problems/furthest-building-you-can-reach,4
+99,Recover Binary Search Tree,Medium,/problems/recover-binary-search-tree,4
+181,Employees Earning More Than Their Managers,Easy,/problems/employees-earning-more-than-their-managers,4
+349,Intersection of Two Arrays,Easy,/problems/intersection-of-two-arrays,4
+328,Odd Even Linked List,Medium,/problems/odd-even-linked-list,4
+317,Shortest Distance from All Buildings,Hard,/problems/shortest-distance-from-all-buildings,4
+304,Range Sum Query 2D - Immutable,Medium,/problems/range-sum-query-2d-immutable,4
+299,Bulls and Cows,Medium,/problems/bulls-and-cows,4
+133,Clone Graph,Medium,/problems/clone-graph,4
+261,Graph Valid Tree,Medium,/problems/graph-valid-tree,4
+1672,Richest Customer Wealth,Easy,/problems/richest-customer-wealth,4
+203,Remove Linked List Elements,Easy,/problems/remove-linked-list-elements,4
+168,Excel Sheet Column Title,Easy,/problems/excel-sheet-column-title,4
+190,Reverse Bits,Easy,/problems/reverse-bits,4
+188,Best Time to Buy and Sell Stock IV,Hard,/problems/best-time-to-buy-and-sell-stock-iv,4
+176,Second Highest Salary,Medium,/problems/second-highest-salary,4
+373,Find K Pairs with Smallest Sums,Medium,/problems/find-k-pairs-with-smallest-sums,4
+137,Single Number II,Medium,/problems/single-number-ii,4
+131,Palindrome Partitioning,Medium,/problems/palindrome-partitioning,4
+123,Best Time to Buy and Sell Stock III,Hard,/problems/best-time-to-buy-and-sell-stock-iii,4
+114,Flatten Binary Tree to Linked List,Medium,/problems/flatten-binary-tree-to-linked-list,4
+95,Unique Binary Search Trees II,Medium,/problems/unique-binary-search-trees-ii,4
+63,Unique Paths II,Medium,/problems/unique-paths-ii,4
+583,Delete Operation for Two Strings,Medium,/problems/delete-operation-for-two-strings,4
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,Medium,/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,4
+286,Walls and Gates,Medium,/problems/walls-and-gates,4
+314,Binary Tree Vertical Order Traversal,Medium,/problems/binary-tree-vertical-order-traversal,4
+339,Nested List Weight Sum,Medium,/problems/nested-list-weight-sum,4
+730,Count Different Palindromic Subsequences,Hard,/problems/count-different-palindromic-subsequences,4
+876,Middle of the Linked List,Easy,/problems/middle-of-the-linked-list,4
+336,Palindrome Pairs,Hard,/problems/palindrome-pairs,4
+780,Reaching Points,Hard,/problems/reaching-points,4
+556,Next Greater Element III,Medium,/problems/next-greater-element-iii,4
+729,My Calendar I,Medium,/problems/my-calendar-i,4
+678,Valid Parenthesis String,Medium,/problems/valid-parenthesis-string,4
+721,Accounts Merge,Medium,/problems/accounts-merge,4
+1047,Remove All Adjacent Duplicates In String,Easy,/problems/remove-all-adjacent-duplicates-in-string,4
+670,Maximum Swap,Medium,/problems/maximum-swap,4
+1423,Maximum Points You Can Obtain from Cards,Medium,/problems/maximum-points-you-can-obtain-from-cards,4
+653,Two Sum IV - Input is a BST,Easy,/problems/two-sum-iv-input-is-a-bst,4
+24,Swap Nodes in Pairs,Medium,/problems/swap-nodes-in-pairs,4
+746,Min Cost Climbing Stairs,Easy,/problems/min-cost-climbing-stairs,4
+716,Max Stack,Hard,/problems/max-stack,4
+1650,Lowest Common Ancestor of a Binary Tree III,Medium,/problems/lowest-common-ancestor-of-a-binary-tree-iii,4
+338,Counting Bits,Easy,/problems/counting-bits,4
+1428,Leftmost Column with at Least a One,Medium,/problems/leftmost-column-with-at-least-a-one,4
+413,Arithmetic Slices,Medium,/problems/arithmetic-slices,4
+474,Ones and Zeroes,Medium,/problems/ones-and-zeroes,4
+1838,Frequency of the Most Frequent Element,Medium,/problems/frequency-of-the-most-frequent-element,4
+209,Minimum Size Subarray Sum,Medium,/problems/minimum-size-subarray-sum,4
+836,Rectangle Overlap,Easy,/problems/rectangle-overlap,4
+953,Verifying an Alien Dictionary,Easy,/problems/verifying-an-alien-dictionary,4
+316,Remove Duplicate Letters,Medium,/problems/remove-duplicate-letters,4
+490,The Maze,Medium,/problems/the-maze,4
+518,Coin Change II,Medium,/problems/coin-change-ii,4
+432,All O`one Data Structure,Hard,/problems/all-oone-data-structure,4
+542,01 Matrix,Medium,/problems/01-matrix,3
+525,Contiguous Array,Medium,/problems/contiguous-array,3
+572,Subtree of Another Tree,Easy,/problems/subtree-of-another-tree,3
+1647,Minimum Deletions to Make Character Frequencies Unique,Medium,/problems/minimum-deletions-to-make-character-frequencies-unique,3
+451,Sort Characters By Frequency,Medium,/problems/sort-characters-by-frequency,3
+1986,Minimum Number of Work Sessions to Finish the Tasks,Medium,/problems/minimum-number-of-work-sessions-to-finish-the-tasks,3
+826,Most Profit Assigning Work,Medium,/problems/most-profit-assigning-work,3
+455,Assign Cookies,Easy,/problems/assign-cookies,3
+609,Find Duplicate File in System,Medium,/problems/find-duplicate-file-in-system,3
+696,Count Binary Substrings,Easy,/problems/count-binary-substrings,3
+1823,Find the Winner of the Circular Game,Medium,/problems/find-the-winner-of-the-circular-game,3
+773,Sliding Puzzle,Hard,/problems/sliding-puzzle,3
+350,Intersection of Two Arrays II,Easy,/problems/intersection-of-two-arrays-ii,3
+450,Delete Node in a BST,Medium,/problems/delete-node-in-a-bst,3
+958,Check Completeness of a Binary Tree,Medium,/problems/check-completeness-of-a-binary-tree,3
+1307,Verbal Arithmetic Puzzle,Hard,/problems/verbal-arithmetic-puzzle,3
+40,Combination Sum II,Medium,/problems/combination-sum-ii,3
+30,Substring with Concatenation of All Words,Hard,/problems/substring-with-concatenation-of-all-words,3
+1762,Buildings With an Ocean View,Medium,/problems/buildings-with-an-ocean-view,3
+1539,Kth Missing Positive Number,Easy,/problems/kth-missing-positive-number,3
+1354,Construct Target Array With Multiple Sums,Hard,/problems/construct-target-array-with-multiple-sums,3
+1790,Check if One String Swap Can Make Strings Equal,Easy,/problems/check-if-one-string-swap-can-make-strings-equal,3
+867,Transpose Matrix,Easy,/problems/transpose-matrix,3
+445,Add Two Numbers II,Medium,/problems/add-two-numbers-ii,3
+65,Valid Number,Hard,/problems/valid-number,3
+117,Populating Next Right Pointers in Each Node II,Medium,/problems/populating-next-right-pointers-in-each-node-ii,3
+684,Redundant Connection,Medium,/problems/redundant-connection,3
+163,Missing Ranges,Easy,/problems/missing-ranges,3
+623,Add One Row to Tree,Medium,/problems/add-one-row-to-tree,3
+480,Sliding Window Median,Hard,/problems/sliding-window-median,3
+319,Bulb Switcher,Medium,/problems/bulb-switcher,3
+348,Design Tic-Tac-Toe,Medium,/problems/design-tic-tac-toe,3
+345,Reverse Vowels of a String,Easy,/problems/reverse-vowels-of-a-string,3
+93,Restore IP Addresses,Medium,/problems/restore-ip-addresses,3
+108,Convert Sorted Array to Binary Search Tree,Easy,/problems/convert-sorted-array-to-binary-search-tree,3
+435,Non-overlapping Intervals,Medium,/problems/non-overlapping-intervals,3
+414,Third Maximum Number,Easy,/problems/third-maximum-number,3
+367,Valid Perfect Square,Easy,/problems/valid-perfect-square,3
+342,Power of Four,Easy,/problems/power-of-four,3
+333,Largest BST Subtree,Medium,/problems/largest-bst-subtree,3
+567,Permutation in String,Medium,/problems/permutation-in-string,3
+289,Game of Life,Medium,/problems/game-of-life,3
+243,Shortest Word Distance,Easy,/problems/shortest-word-distance,3
+274,H-Index,Medium,/problems/h-index,3
+183,Customers Who Never Order,Easy,/problems/customers-who-never-order,3
+581,Shortest Unsorted Continuous Subarray,Medium,/problems/shortest-unsorted-continuous-subarray,3
+257,Binary Tree Paths,Easy,/problems/binary-tree-paths,3
+1099,Two Sum Less Than K,Easy,/problems/two-sum-less-than-k,3
+1229,Meeting Scheduler,Medium,/problems/meeting-scheduler,3
+120,Triangle,Medium,/problems/triangle,3
+691,Stickers to Spell Word,Hard,/problems/stickers-to-spell-word,3
+386,Lexicographical Numbers,Medium,/problems/lexicographical-numbers,3
+384,Shuffle an Array,Medium,/problems/shuffle-an-array,3
+323,Number of Connected Components in an Undirected Graph,Medium,/problems/number-of-connected-components-in-an-undirected-graph,3
+539,Minimum Time Difference,Medium,/problems/minimum-time-difference,3
+983,Minimum Cost For Tickets,Medium,/problems/minimum-cost-for-tickets,3
+990,Satisfiability of Equality Equations,Medium,/problems/satisfiability-of-equality-equations,3
+1740,Find Distance in a Binary Tree,Medium,/problems/find-distance-in-a-binary-tree,3
+487,Max Consecutive Ones II,Medium,/problems/max-consecutive-ones-ii,3
+166,Fraction to Recurring Decimal,Medium,/problems/fraction-to-recurring-decimal,3
+473,Matchsticks to Square,Medium,/problems/matchsticks-to-square,3
+1696,Jump Game VI,Medium,/problems/jump-game-vi,3
+458,Poor Pigs,Hard,/problems/poor-pigs,3
+420,Strong Password Checker,Hard,/problems/strong-password-checker,3
+1567,Maximum Length of Subarray With Positive Product,Medium,/problems/maximum-length-of-subarray-with-positive-product,3
+1328,Break a Palindrome,Medium,/problems/break-a-palindrome,3
+1470,Shuffle the Array,Easy,/problems/shuffle-the-array,3
+366,Find Leaves of Binary Tree,Medium,/problems/find-leaves-of-binary-tree,3
+1413,Minimum Value to Get Positive Step by Step Sum,Easy,/problems/minimum-value-to-get-positive-step-by-step-sum,3
+1339,Maximum Product of Splitted Binary Tree,Medium,/problems/maximum-product-of-splitted-binary-tree,3
+340,Longest Substring with At Most K Distinct Characters,Medium,/problems/longest-substring-with-at-most-k-distinct-characters,3
+1146,Snapshot Array,Medium,/problems/snapshot-array,3
+337,House Robber III,Medium,/problems/house-robber-iii,3
+947,Most Stones Removed with Same Row or Column,Medium,/problems/most-stones-removed-with-same-row-or-column,3
+1730,Shortest Path to Get Food,Medium,/problems/shortest-path-to-get-food,3
+586,Customer Placing the Largest Number of Orders,Easy,/problems/customer-placing-the-largest-number-of-orders,3
+791,Custom Sort String,Medium,/problems/custom-sort-string,3
+1578,Minimum Time to Make Rope Colorful,Medium,/problems/minimum-time-to-make-rope-colorful,3
+1347,Minimum Number of Steps to Make Two Strings Anagram,Medium,/problems/minimum-number-of-steps-to-make-two-strings-anagram,3
+1029,Two City Scheduling,Medium,/problems/two-city-scheduling,3
+752,Open the Lock,Medium,/problems/open-the-lock,3
+665,Non-decreasing Array,Medium,/problems/non-decreasing-array,3
+652,Find Duplicate Subtrees,Medium,/problems/find-duplicate-subtrees,3
+778,Swim in Rising Water,Hard,/problems/swim-in-rising-water,3
+636,Exclusive Time of Functions,Medium,/problems/exclusive-time-of-functions,3
+797,All Paths From Source to Target,Medium,/problems/all-paths-from-source-to-target,3
+1200,Minimum Absolute Difference,Easy,/problems/minimum-absolute-difference,3
+804,Unique Morse Code Words,Easy,/problems/unique-morse-code-words,3
+311,Sparse Matrix Multiplication,Medium,/problems/sparse-matrix-multiplication,3
+174,Dungeon Game,Hard,/problems/dungeon-game,3
+833,Find And Replace in String,Medium,/problems/find-and-replace-in-string,3
+629,K Inverse Pairs Array,Hard,/problems/k-inverse-pairs-array,3
+890,Find and Replace Pattern,Medium,/problems/find-and-replace-pattern,3
+894,All Possible Full Binary Trees,Medium,/problems/all-possible-full-binary-trees,3
+921,Minimum Add to Make Parentheses Valid,Medium,/problems/minimum-add-to-make-parentheses-valid,3
+326,Power of Three,Easy,/problems/power-of-three,3
+715,Range Module,Hard,/problems/range-module,3
+1008,Construct Binary Search Tree from Preorder Traversal,Medium,/problems/construct-binary-search-tree-from-preorder-traversal,3
+1281,Subtract the Product and Sum of Digits of an Integer,Easy,/problems/subtract-the-product-and-sum-of-digits-of-an-integer,3
+1291,Sequential Digits,Medium,/problems/sequential-digits,3
+759,Employee Free Time,Hard,/problems/employee-free-time,3
+1094,Car Pooling,Medium,/problems/car-pooling,3
+1275,Find Winner on a Tic Tac Toe Game,Easy,/problems/find-winner-on-a-tic-tac-toe-game,3
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,3
+1046,Last Stone Weight,Easy,/problems/last-stone-weight,3
+60,Permutation Sequence,Hard,/problems/permutation-sequence,3
+130,Surrounded Regions,Medium,/problems/surrounded-regions,3
+1448,Count Good Nodes in Binary Tree,Medium,/problems/count-good-nodes-in-binary-tree,3
+2193,Minimum Number of Moves to Make Palindrome,Hard,/problems/minimum-number-of-moves-to-make-palindrome,3
+1152,Analyze User Website Visit Pattern,Medium,/problems/analyze-user-website-visit-pattern,3
+1044,Longest Duplicate Substring,Hard,/problems/longest-duplicate-substring,3
+1041,Robot Bounded In Circle,Medium,/problems/robot-bounded-in-circle,3
+1353,Maximum Number of Events That Can Be Attended,Medium,/problems/maximum-number-of-events-that-can-be-attended,3
+632,Smallest Range Covering Elements from K Lists,Hard,/problems/smallest-range-covering-elements-from-k-lists,3
+1387,Sort Integers by The Power Value,Medium,/problems/sort-integers-by-the-power-value,3
+441,Arranging Coins,Easy,/problems/arranging-coins,3
+175,Combine Two Tables,Easy,/problems/combine-two-tables,3
+968,Binary Tree Cameras,Hard,/problems/binary-tree-cameras,3
+1366,Rank Teams by Votes,Medium,/problems/rank-teams-by-votes,3
+1334,Find the City With the Smallest Number of Neighbors at a Threshold Distance,Medium,/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance,3
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Medium,/problems/maximum-sum-of-two-non-overlapping-subarrays,3
+886,Possible Bipartition,Medium,/problems/possible-bipartition,3
+252,Meeting Rooms,Easy,/problems/meeting-rooms,3
+229,Majority Element II,Medium,/problems/majority-element-ii,3
+895,Maximum Frequency Stack,Hard,/problems/maximum-frequency-stack,3
+371,Sum of Two Integers,Medium,/problems/sum-of-two-integers,2
+1239,Maximum Length of a Concatenated String with Unique Characters,Medium,/problems/maximum-length-of-a-concatenated-string-with-unique-characters,2
+751,IP to CIDR,Medium,/problems/ip-to-cidr,2
+285,Inorder Successor in BST,Medium,/problems/inorder-successor-in-bst,2
+1444,Number of Ways of Cutting a Pizza,Hard,/problems/number-of-ways-of-cutting-a-pizza,2
+254,Factor Combinations,Medium,/problems/factor-combinations,2
+1000,Minimum Cost to Merge Stones,Hard,/problems/minimum-cost-to-merge-stones,2
+1835,Find XOR Sum of All Pairs Bitwise AND,Hard,/problems/find-xor-sum-of-all-pairs-bitwise-and,2
+498,Diagonal Traverse,Medium,/problems/diagonal-traverse,2
+486,Predict the Winner,Medium,/problems/predict-the-winner,2
+423,Reconstruct Original Digits from English,Medium,/problems/reconstruct-original-digits-from-english,2
+1340,Jump Game V,Hard,/problems/jump-game-v,2
+864,Shortest Path to Get All Keys,Hard,/problems/shortest-path-to-get-all-keys,2
+510,Inorder Successor in BST II,Medium,/problems/inorder-successor-in-bst-ii,2
+1402,Reducing Dishes,Hard,/problems/reducing-dishes,2
+705,Design HashSet,Easy,/problems/design-hashset,2
+1531,String Compression II,Hard,/problems/string-compression-ii,2
+749,Contain Virus,Hard,/problems/contain-virus,2
+1654,Minimum Jumps to Reach Home,Medium,/problems/minimum-jumps-to-reach-home,2
+1787,Make the XOR of All Segments Equal to Zero,Hard,/problems/make-the-xor-of-all-segments-equal-to-zero,2
+2246,Longest Path With Different Adjacent Characters,Hard,/problems/longest-path-with-different-adjacent-characters,2
+707,Design Linked List,Medium,/problems/design-linked-list,2
+1160,Find Words That Can Be Formed by Characters,Easy,/problems/find-words-that-can-be-formed-by-characters,2
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,Medium,/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color,2
+763,Partition Labels,Medium,/problems/partition-labels,2
+703,Kth Largest Element in a Stream,Easy,/problems/kth-largest-element-in-a-stream,2
+2134,Minimum Swaps to Group All 1's Together II,Medium,/problems/minimum-swaps-to-group-all-1s-together-ii,2
+1189,Maximum Number of Balloons,Easy,/problems/maximum-number-of-balloons,2
+916,Word Subsets,Medium,/problems/word-subsets,2
+824,Goat Latin,Easy,/problems/goat-latin,2
+855,Exam Room,Medium,/problems/exam-room,2
+1615,Maximal Network Rank,Medium,/problems/maximal-network-rank,2
+941,Valid Mountain Array,Easy,/problems/valid-mountain-array,2
+768,Max Chunks To Make Sorted II,Hard,/problems/max-chunks-to-make-sorted-ii,2
+986,Interval List Intersections,Medium,/problems/interval-list-intersections,2
+1658,Minimum Operations to Reduce X to Zero,Medium,/problems/minimum-operations-to-reduce-x-to-zero,2
+605,Can Place Flowers,Easy,/problems/can-place-flowers,2
+1216,Valid Palindrome III,Hard,/problems/valid-palindrome-iii,2
+976,Largest Perimeter Triangle,Easy,/problems/largest-perimeter-triangle,2
+862,Shortest Subarray with Sum at Least K,Hard,/problems/shortest-subarray-with-sum-at-least-k,2
+532,K-diff Pairs in an Array,Medium,/problems/k-diff-pairs-in-an-array,2
+47,Permutations II,Medium,/problems/permutations-ii,2
+1832,Check if the Sentence Is Pangram,Easy,/problems/check-if-the-sentence-is-pangram,2
+547,Number of Provinces,Medium,/problems/number-of-provinces,2
+1169,Invalid Transactions,Medium,/problems/invalid-transactions,2
+1405,Longest Happy String,Medium,/problems/longest-happy-string,2
+502,IPO,Hard,/problems/ipo,2
+1202,Smallest String With Swaps,Medium,/problems/smallest-string-with-swaps,2
+494,Target Sum,Medium,/problems/target-sum,2
+465,Optimal Account Balancing,Hard,/problems/optimal-account-balancing,2
+462,Minimum Moves to Equal Array Elements II,Medium,/problems/minimum-moves-to-equal-array-elements-ii,2
+1344,Angle Between Hands of a Clock,Medium,/problems/angle-between-hands-of-a-clock,2
+452,Minimum Number of Arrows to Burst Balloons,Medium,/problems/minimum-number-of-arrows-to-burst-balloons,2
+1335,Minimum Difficulty of a Job Schedule,Hard,/problems/minimum-difficulty-of-a-job-schedule,2
+1338,Reduce Array Size to The Half,Medium,/problems/reduce-array-size-to-the-half,2
+449,Serialize and Deserialize BST,Medium,/problems/serialize-and-deserialize-bst,2
+1396,Design Underground System,Medium,/problems/design-underground-system,2
+1431,Kids With the Greatest Number of Candies,Easy,/problems/kids-with-the-greatest-number-of-candies,2
+1329,Sort the Matrix Diagonally,Medium,/problems/sort-the-matrix-diagonally,2
+576,Out of Boundary Paths,Medium,/problems/out-of-boundary-paths,2
+584,Find Customer Referee,Easy,/problems/find-customer-referee,2
+993,Cousins in Binary Tree,Easy,/problems/cousins-in-binary-tree,2
+904,Fruit Into Baskets,Medium,/problems/fruit-into-baskets,2
+931,Minimum Falling Path Sum,Medium,/problems/minimum-falling-path-sum,2
+823,Binary Trees With Factors,Medium,/problems/binary-trees-with-factors,2
+937,Reorder Data in Log Files,Medium,/problems/reorder-data-in-log-files,2
+815,Bus Routes,Hard,/problems/bus-routes,2
+802,Find Eventual Safe States,Medium,/problems/find-eventual-safe-states,2
+796,Rotate String,Easy,/problems/rotate-string,2
+606,Construct String from Binary Tree,Easy,/problems/construct-string-from-binary-tree,2
+1032,Stream of Characters,Hard,/problems/stream-of-characters,2
+429,N-ary Tree Level Order Traversal,Medium,/problems/n-ary-tree-level-order-traversal,2
+740,Delete and Earn,Medium,/problems/delete-and-earn,2
+1039,Minimum Score Triangulation of Polygon,Medium,/problems/minimum-score-triangulation-of-polygon,2
+657,Robot Return to Origin,Easy,/problems/robot-return-to-origin,2
+1166,Design File System,Medium,/problems/design-file-system,2
+433,Minimum Genetic Mutation,Medium,/problems/minimum-genetic-mutation,2
+1436,Destination City,Easy,/problems/destination-city,2
+409,Longest Palindrome,Easy,/problems/longest-palindrome,2
+838,Push Dominoes,Medium,/problems/push-dominoes,2
+2376,Count Special Integers,Hard,/problems/count-special-integers,2
+2405,Optimal Partition of String,Medium,/problems/optimal-partition-of-string,2
+165,Compare Version Numbers,Medium,/problems/compare-version-numbers,2
+1994,The Number of Good Subsets,Hard,/problems/the-number-of-good-subsets,2
+159,Longest Substring with At Most Two Distinct Characters,Medium,/problems/longest-substring-with-at-most-two-distinct-characters,2
+526,Beautiful Arrangement,Medium,/problems/beautiful-arrangement,2
+374,Guess Number Higher or Lower,Easy,/problems/guess-number-higher-or-lower,2
+196,Delete Duplicate Emails,Easy,/problems/delete-duplicate-emails,2
+744,Find Smallest Letter Greater Than Target,Easy,/problems/find-smallest-letter-greater-than-target,2
+858,Mirror Reflection,Medium,/problems/mirror-reflection,2
+82,Remove Duplicates from Sorted List II,Medium,/problems/remove-duplicates-from-sorted-list-ii,2
+948,Bag of Tokens,Medium,/problems/bag-of-tokens,2
+1129,Shortest Path with Alternating Colors,Medium,/problems/shortest-path-with-alternating-colors,2
+58,Length of Last Word,Easy,/problems/length-of-last-word,2
+2070,Most Beautiful Item for Each Query,Medium,/problems/most-beautiful-item-for-each-query,2
+2007,Find Original Array From Doubled Array,Medium,/problems/find-original-array-from-doubled-array,2
+407,Trapping Rain Water II,Hard,/problems/trapping-rain-water-ii,2
+305,Number of Islands II,Hard,/problems/number-of-islands-ii,2
+397,Integer Replacement,Medium,/problems/integer-replacement,2
+390,Elimination Game,Medium,/problems/elimination-game,2
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Medium,/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts,2
+1482,Minimum Number of Days to Make m Bouquets,Medium,/problems/minimum-number-of-days-to-make-m-bouquets,2
+1488,Avoid Flood in The City,Medium,/problems/avoid-flood-in-the-city,2
+318,Maximum Product of Word Lengths,Medium,/problems/maximum-product-of-word-lengths,2
+1603,Design Parking System,Easy,/problems/design-parking-system,2
+222,Count Complete Tree Nodes,Medium,/problems/count-complete-tree-nodes,2
+1689,Partitioning Into Minimum Number Of Deci-Binary Numbers,Medium,/problems/partitioning-into-minimum-number-of-deci-binary-numbers,2
+277,Find the Celebrity,Medium,/problems/find-the-celebrity,2
+258,Add Digits,Easy,/problems/add-digits,2
+1723,Find Minimum Time to Finish All Jobs,Hard,/problems/find-minimum-time-to-finish-all-jobs,2
+256,Paint House,Medium,/problems/paint-house,2
+244,Shortest Word Distance II,Medium,/problems/shortest-word-distance-ii,2
+368,Largest Divisible Subset,Medium,/problems/largest-divisible-subset,2
+2060,Check if an Original String Exists Given Two Encoded Strings,Hard,/problems/check-if-an-original-string-exists-given-two-encoded-strings,2
+938,Range Sum of BST,Easy,/problems/range-sum-of-bst,2
+849,Maximize Distance to Closest Person,Medium,/problems/maximize-distance-to-closest-person,2
+2276,Count Integers in Intervals,Hard,/problems/count-integers-in-intervals,2
+2311,Longest Binary Subsequence Less Than or Equal to K,Medium,/problems/longest-binary-subsequence-less-than-or-equal-to-k,2
+2336,Smallest Number in Infinite Set,Medium,/problems/smallest-number-in-infinite-set,2
+1155,Number of Dice Rolls With Target Sum,Medium,/problems/number-of-dice-rolls-with-target-sum,2
+593,Valid Square,Medium,/problems/valid-square,2
+630,Course Schedule III,Hard,/problems/course-schedule-iii,2
+1110,Delete Nodes And Return Forest,Medium,/problems/delete-nodes-and-return-forest,2
+673,Number of Longest Increasing Subsequence,Medium,/problems/number-of-longest-increasing-subsequence,2
+1244,Design A Leaderboard,Medium,/problems/design-a-leaderboard,2
+1052,Grumpy Bookstore Owner,Medium,/problems/grumpy-bookstore-owner,2
+1162,As Far from Land as Possible,Medium,/problems/as-far-from-land-as-possible,2
+690,Employee Importance,Medium,/problems/employee-importance,2
+96,Unique Binary Search Trees,Medium,/problems/unique-binary-search-trees,2
+1381,Design a Stack With Increment Operation,Medium,/problems/design-a-stack-with-increment-operation,2
+1102,Path With Maximum Minimum Value,Medium,/problems/path-with-maximum-minimum-value,2
+731,My Calendar II,Medium,/problems/my-calendar-ii,2
+564,Find the Closest Palindrome,Hard,/problems/find-the-closest-palindrome,2
+929,Unique Email Addresses,Easy,/problems/unique-email-addresses,2
+723,Candy Crush,Medium,/problems/candy-crush,2
+1639,Number of Ways to Form a Target String Given a Dictionary,Hard,/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,2
+1861,Rotating the Box,Medium,/problems/rotating-the-box,2
+743,Network Delay Time,Medium,/problems/network-delay-time,2
+427,Construct Quad Tree,Medium,/problems/construct-quad-tree,2
+975,Odd Even Jump,Hard,/problems/odd-even-jump,2
+777,Swap Adjacent in LR String,Medium,/problems/swap-adjacent-in-lr-string,2
+363,Max Sum of Rectangle No Larger Than K,Hard,/problems/max-sum-of-rectangle-no-larger-than-k,2
+112,Path Sum,Easy,/problems/path-sum,2
+552,Student Attendance Record II,Hard,/problems/student-attendance-record-ii,2
+115,Distinct Subsequences,Hard,/problems/distinct-subsequences,2
+1706,Where Will the Ball Fall,Medium,/problems/where-will-the-ball-fall,2
+400,Nth Digit,Medium,/problems/nth-digit,2
+403,Frog Jump,Hard,/problems/frog-jump,2
+1506,Find Root of N-Ary Tree,Medium,/problems/find-root-of-n-ary-tree,2
+1525,Number of Good Ways to Split a String,Medium,/problems/number-of-good-ways-to-split-a-string,2
+1834,Single-Threaded CPU,Medium,/problems/single-threaded-cpu,2
+1854,Maximum Population Year,Easy,/problems/maximum-population-year,2
+1882,Process Tasks Using Servers,Medium,/problems/process-tasks-using-servers,2
+448,Find All Numbers Disappeared in an Array,Easy,/problems/find-all-numbers-disappeared-in-an-array,2
+379,Design Phone Directory,Medium,/problems/design-phone-directory,2
+1996,The Number of Weak Characters in the Game,Medium,/problems/the-number-of-weak-characters-in-the-game,2
+1383,Maximum Performance of a Team,Hard,/problems/maximum-performance-of-a-team,2
+377,Combination Sum IV,Medium,/problems/combination-sum-iv,2
+365,Water and Jug Problem,Medium,/problems/water-and-jug-problem,2
+2034,Stock Price Fluctuation,Medium,/problems/stock-price-fluctuation,2
+1345,Jump Game IV,Hard,/problems/jump-game-iv,2
+310,Minimum Height Trees,Medium,/problems/minimum-height-trees,2
+2127,Maximum Employees to Be Invited to a Meeting,Hard,/problems/maximum-employees-to-be-invited-to-a-meeting,2
+306,Additive Number,Medium,/problems/additive-number,2
+1277,Count Square Submatrices with All Ones,Medium,/problems/count-square-submatrices-with-all-ones,2
+282,Expression Add Operators,Hard,/problems/expression-add-operators,2
+211,Design Add and Search Words Data Structure,Medium,/problems/design-add-and-search-words-data-structure,2
+507,Perfect Number,Easy,/problems/perfect-number,2
+1220,Count Vowels Permutation,Hard,/problems/count-vowels-permutation,2
+193,Valid Phone Numbers,Easy,/problems/valid-phone-numbers,2
+2187,Minimum Time to Complete Trips,Medium,/problems/minimum-time-to-complete-trips,2
+446,Arithmetic Slices II - Subsequence,Hard,/problems/arithmetic-slices-ii-subsequence,2
+1592,Rearrange Spaces Between Words,Easy,/problems/rearrange-spaces-between-words,2
+2008,Maximum Earnings From Taxi,Medium,/problems/maximum-earnings-from-taxi,2
+59,Spiral Matrix II,Medium,/problems/spiral-matrix-ii,2
+241,Different Ways to Add Parentheses,Medium,/problems/different-ways-to-add-parentheses,2
+939,Minimum Area Rectangle,Medium,/problems/minimum-area-rectangle,2
+757,Set Intersection Size At Least Two,Hard,/problems/set-intersection-size-at-least-two,2
+818,Race Car,Hard,/problems/race-car,2
+158,Read N Characters Given read4 II - Call Multiple Times,Hard,/problems/read-n-characters-given-read4-ii-call-multiple-times,2
+129,Sum Root to Leaf Numbers,Medium,/problems/sum-root-to-leaf-numbers,2
+1752,Check if Array Is Sorted and Rotated,Easy,/problems/check-if-array-is-sorted-and-rotated,2
+930,Binary Subarrays With Sum,Medium,/problems/binary-subarrays-with-sum,2
+974,Subarray Sums Divisible by K,Medium,/problems/subarray-sums-divisible-by-k,2
+792,Number of Matching Subsequences,Medium,/problems/number-of-matching-subsequences,2
+828,Count Unique Characters of All Substrings of a Given String,Hard,/problems/count-unique-characters-of-all-substrings-of-a-given-string,2
+1336,Number of Transactions per Visit,Hard,/problems/number-of-transactions-per-visit,2
+889,Construct Binary Tree from Preorder and Postorder Traversal,Medium,/problems/construct-binary-tree-from-preorder-and-postorder-traversal,2
+839,Similar String Groups,Hard,/problems/similar-string-groups,2
+77,Combinations,Medium,/problems/combinations,2
+859,Buddy Strings,Easy,/problems/buddy-strings,2
+232,Implement Queue using Stacks,Easy,/problems/implement-queue-using-stacks,2
+2296,Design a Text Editor,Hard,/problems/design-a-text-editor,2
+249,Group Shifted Strings,Medium,/problems/group-shifted-strings,2
+843,Guess the Word,Hard,/problems/guess-the-word,2
+271,Encode and Decode Strings,Medium,/problems/encode-and-decode-strings,2
+355,Design Twitter,Medium,/problems/design-twitter,2
+1351,Count Negative Numbers in a Sorted Matrix,Easy,/problems/count-negative-numbers-in-a-sorted-matrix,2
+270,Closest Binary Search Tree Value,Easy,/problems/closest-binary-search-tree-value,2
+2023,Number of Pairs of Strings With Concatenation Equal to Target,Medium,/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target,2
+935,Knight Dialer,Medium,/problems/knight-dialer,2
+132,Palindrome Partitioning II,Hard,/problems/palindrome-partitioning-ii,2
+790,Domino and Tromino Tiling,Medium,/problems/domino-and-tromino-tiling,2
+844,Backspace String Compare,Easy,/problems/backspace-string-compare,2
+1481,Least Number of Unique Integers after K Removals,Medium,/problems/least-number-of-unique-integers-after-k-removals,2
+900,RLE Iterator,Medium,/problems/rle-iterator,1
+1770,Maximum Score from Performing Multiplication Operations,Hard,/problems/maximum-score-from-performing-multiplication-operations,1
+485,Max Consecutive Ones,Easy,/problems/max-consecutive-ones,1
+1394,Find Lucky Integer in an Array,Easy,/problems/find-lucky-integer-in-an-array,1
+2355,Maximum Number of Books You Can Take,Hard,/problems/maximum-number-of-books-you-can-take,1
+361,Bomb Enemy,Medium,/problems/bomb-enemy,1
+1315,Sum of Nodes with Even-Valued Grandparent,Medium,/problems/sum-of-nodes-with-even-valued-grandparent,1
+488,Zuma Game,Hard,/problems/zuma-game,1
+881,Boats to Save People,Medium,/problems/boats-to-save-people,1
+1337,The K Weakest Rows in a Matrix,Easy,/problems/the-k-weakest-rows-in-a-matrix,1
+1515,Best Position for a Service Centre,Hard,/problems/best-position-for-a-service-centre,1
+1743,Restore the Array From Adjacent Pairs,Medium,/problems/restore-the-array-from-adjacent-pairs,1
+1282,Group the People Given the Group Size They Belong To,Medium,/problems/group-the-people-given-the-group-size-they-belong-to,1
+1842,Next Palindrome Using Same Digits,Hard,/problems/next-palindrome-using-same-digits,1
+1219,Path with Maximum Gold,Medium,/problems/path-with-maximum-gold,1
+1175,Prime Arrangements,Easy,/problems/prime-arrangements,1
+1024,Video Stitching,Medium,/problems/video-stitching,1
+873,Length of Longest Fibonacci Subsequence,Medium,/problems/length-of-longest-fibonacci-subsequence,1
+2089,Find Target Indices After Sorting Array,Easy,/problems/find-target-indices-after-sorting-array,1
+1774,Closest Dessert Cost,Medium,/problems/closest-dessert-cost,1
+1873,Calculate Special Bonus,Easy,/problems/calculate-special-bonus,1
+214,Shortest Palindrome,Hard,/problems/shortest-palindrome,1
+2176,Count Equal and Divisible Pairs in an Array,Easy,/problems/count-equal-and-divisible-pairs-in-an-array,1
+2157,Groups of Strings,Hard,/problems/groups-of-strings,1
+712,Minimum ASCII Delete Sum for Two Strings,Medium,/problems/minimum-ascii-delete-sum-for-two-strings,1
+418,Sentence Screen Fitting,Medium,/problems/sentence-screen-fitting,1
+741,Cherry Pickup,Hard,/problems/cherry-pickup,1
+902,Numbers At Most N Given Digit Set,Hard,/problems/numbers-at-most-n-given-digit-set,1
+476,Number Complement,Easy,/problems/number-complement,1
+848,Shifting Letters,Medium,/problems/shifting-letters,1
+846,Hand of Straights,Medium,/problems/hand-of-straights,1
+1002,Find Common Characters,Easy,/problems/find-common-characters,1
+649,Dota2 Senate,Medium,/problems/dota2-senate,1
+1095,Find in Mountain Array,Hard,/problems/find-in-mountain-array,1
+2380,Time Needed to Rearrange a Binary String,Medium,/problems/time-needed-to-rearrange-a-binary-string,1
+2236,Root Equals Sum of Children,Easy,/problems/root-equals-sum-of-children,1
+861,Score After Flipping Matrix,Medium,/problems/score-after-flipping-matrix,1
+246,Strobogrammatic Number,Easy,/problems/strobogrammatic-number,1
+1560,Most Visited Sector in a Circular Track,Easy,/problems/most-visited-sector-in-a-circular-track,1
+845,Longest Mountain in Array,Medium,/problems/longest-mountain-in-array,1
+1009,Complement of Base 10 Integer,Easy,/problems/complement-of-base-10-integer,1
+2068,Check Whether Two Strings are Almost Equivalent,Easy,/problems/check-whether-two-strings-are-almost-equivalent,1
+393,UTF-8 Validation,Medium,/problems/utf-8-validation,1
+807,Max Increase to Keep City Skyline,Medium,/problems/max-increase-to-keep-city-skyline,1
+2463,Minimum Total Distance Traveled,Hard,/problems/minimum-total-distance-traveled,1
+2248,Intersection of Multiple Arrays,Easy,/problems/intersection-of-multiple-arrays,1
+726,Number of Atoms,Hard,/problems/number-of-atoms,1
+1795,Rearrange Products Table,Easy,/problems/rearrange-products-table,1
+1656,Design an Ordered Stream,Easy,/problems/design-an-ordered-stream,1
+1614,Maximum Nesting Depth of the Parentheses,Easy,/problems/maximum-nesting-depth-of-the-parentheses,1
+1583,Count Unhappy Friends,Medium,/problems/count-unhappy-friends,1
+1582,Special Positions in a Binary Matrix,Easy,/problems/special-positions-in-a-binary-matrix,1
+794,Valid Tic-Tac-Toe State,Medium,/problems/valid-tic-tac-toe-state,1
+732,My Calendar III,Hard,/problems/my-calendar-iii,1
+1358,Number of Substrings Containing All Three Characters,Medium,/problems/number-of-substrings-containing-all-three-characters,1
+1332,Remove Palindromic Subsequences,Easy,/problems/remove-palindromic-subsequences,1
+2303,Calculate Amount Paid in Taxes,Easy,/problems/calculate-amount-paid-in-taxes,1
+1236,Web Crawler,Medium,/problems/web-crawler,1
+1331,Rank Transform of an Array,Easy,/problems/rank-transform-of-an-array,1
+1274,Number of Ships in a Rectangle,Hard,/problems/number-of-ships-in-a-rectangle,1
+745,Prefix and Suffix Search,Hard,/problems/prefix-and-suffix-search,1
+788,Rotated Digits,Medium,/problems/rotated-digits,1
+925,Long Pressed Name,Easy,/problems/long-pressed-name,1
+888,Fair Candy Swap,Easy,/problems/fair-candy-swap,1
+769,Max Chunks To Make Sorted,Medium,/problems/max-chunks-to-make-sorted,1
+720,Longest Word in Dictionary,Medium,/problems/longest-word-in-dictionary,1
+308,Range Sum Query 2D - Mutable,Hard,/problems/range-sum-query-2d-mutable,1
+997,Find the Town Judge,Easy,/problems/find-the-town-judge,1
+264,Ugly Number II,Medium,/problems/ugly-number-ii,1
+1290,Convert Binary Number in a Linked List to Integer,Easy,/problems/convert-binary-number-in-a-linked-list-to-integer,1
+996,Number of Squareful Arrays,Hard,/problems/number-of-squareful-arrays,1
+524,Longest Word in Dictionary through Deleting,Medium,/problems/longest-word-in-dictionary-through-deleting,1
+551,Student Attendance Record I,Easy,/problems/student-attendance-record-i,1
+2165,Smallest Value of the Rearranged Number,Medium,/problems/smallest-value-of-the-rearranged-number,1
+566,Reshape the Matrix,Easy,/problems/reshape-the-matrix,1
+1731,The Number of Employees Which Report to Each Employee,Easy,/problems/the-number-of-employees-which-report-to-each-employee,1
+541,Reverse String II,Easy,/problems/reverse-string-ii,1
+110,Balanced Binary Tree,Easy,/problems/balanced-binary-tree,1
+562,Longest Line of Consecutive One in Matrix,Medium,/problems/longest-line-of-consecutive-one-in-matrix,1
+325,Maximum Size Subarray Sum Equals k,Medium,/problems/maximum-size-subarray-sum-equals-k,1
+284,Peeking Iterator,Medium,/problems/peeking-iterator,1
+233,Number of Digit One,Hard,/problems/number-of-digit-one,1
+144,Binary Tree Preorder Traversal,Easy,/problems/binary-tree-preorder-traversal,1
+145,Binary Tree Postorder Traversal,Easy,/problems/binary-tree-postorder-traversal,1
+1352,Product of the Last K Numbers,Medium,/problems/product-of-the-last-k-numbers,1
+945,Minimum Increment to Make Array Unique,Medium,/problems/minimum-increment-to-make-array-unique,1
+832,Flipping an Image,Easy,/problems/flipping-an-image,1
+331,Verify Preorder Serialization of a Binary Tree,Medium,/problems/verify-preorder-serialization-of-a-binary-tree,1
+225,Implement Stack using Queues,Easy,/problems/implement-stack-using-queues,1
+679,24 Game,Hard,/problems/24-game,1
+2419,Longest Subarray With Maximum Bitwise AND,Medium,/problems/longest-subarray-with-maximum-bitwise-and,1
+1071,Greatest Common Divisor of Strings,Easy,/problems/greatest-common-divisor-of-strings,1
+1897,Redistribute Characters to Make All Strings Equal,Easy,/problems/redistribute-characters-to-make-all-strings-equal,1
+408,Valid Word Abbreviation,Easy,/problems/valid-word-abbreviation,1
+2333,Minimum Sum of Squared Difference,Medium,/problems/minimum-sum-of-squared-difference,1
+292,Nim Game,Easy,/problems/nim-game,1
+1979,Find Greatest Common Divisor of Array,Easy,/problems/find-greatest-common-divisor-of-array,1
+2030,Smallest K-Length Subsequence With Occurrences of a Letter,Hard,/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter,1
+1491,Average Salary Excluding the Minimum and Maximum Salary,Easy,/problems/average-salary-excluding-the-minimum-and-maximum-salary,1
+577,Employee Bonus,Easy,/problems/employee-bonus,1
+2275,Largest Combination With Bitwise AND Greater Than Zero,Medium,/problems/largest-combination-with-bitwise-and-greater-than-zero,1
+1991,Find the Middle Index in Array,Easy,/problems/find-the-middle-index-in-array,1
+1657,Determine if Two Strings Are Close,Medium,/problems/determine-if-two-strings-are-close,1
+2269,Find the K-Beauty of a Number,Easy,/problems/find-the-k-beauty-of-a-number,1
+1611,Minimum One Bit Operations to Make Integers Zero,Hard,/problems/minimum-one-bit-operations-to-make-integers-zero,1
+2230,The Users That Are Eligible for Discount,Easy,/problems/the-users-that-are-eligible-for-discount,1
+2205,The Number of Users That Are Eligible for Discount,Easy,/problems/the-number-of-users-that-are-eligible-for-discount,1
+754,Reach a Number,Medium,/problems/reach-a-number,1
+1801,Number of Orders in the Backlog,Medium,/problems/number-of-orders-in-the-backlog,1
+1725,Number Of Rectangles That Can Form The Largest Square,Easy,/problems/number-of-rectangles-that-can-form-the-largest-square,1
+2213,Longest Substring of One Repeating Character,Hard,/problems/longest-substring-of-one-repeating-character,1
+1257,Smallest Common Region,Medium,/problems/smallest-common-region,1
+755,Pour Water,Medium,/problems/pour-water,1
+2232,Minimize Result by Adding Parentheses to Expression,Medium,/problems/minimize-result-by-adding-parentheses-to-expression,1
+251,Flatten 2D Vector,Medium,/problems/flatten-2d-vector,1
+1333,"Filter Restaurants by Vegan-Friendly, Price and Distance",Medium,/problems/filter-restaurants-by-vegan-friendly-price-and-distance,1
+2160,Minimum Sum of Four Digit Number After Splitting Digits,Easy,/problems/minimum-sum-of-four-digit-number-after-splitting-digits,1
+2095,Delete the Middle Node of a Linked List,Medium,/problems/delete-the-middle-node-of-a-linked-list,1
+1920,Build Array from Permutation,Easy,/problems/build-array-from-permutation,1
+1695,Maximum Erasure Value,Medium,/problems/maximum-erasure-value,1
+1588,Sum of All Odd Length Subarrays,Easy,/problems/sum-of-all-odd-length-subarrays,1
+1484,Group Sold Products By The Date,Easy,/problems/group-sold-products-by-the-date,1
+1013,Partition Array Into Three Parts With Equal Sum,Easy,/problems/partition-array-into-three-parts-with-equal-sum,1
+561,Array Partition,Easy,/problems/array-partition,1
+1721,Swapping Nodes in a Linked List,Medium,/problems/swapping-nodes-in-a-linked-list,1
+1106,Parsing A Boolean Expression,Hard,/problems/parsing-a-boolean-expression,1
+2192,All Ancestors of a Node in a Directed Acyclic Graph,Medium,/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph,1
+2393,Count Strictly Increasing Subarrays,Medium,/problems/count-strictly-increasing-subarrays,1
+1537,Get the Maximum Score,Hard,/problems/get-the-maximum-score,1
+550,Game Play Analysis IV,Medium,/problems/game-play-analysis-iv,1
+534,Game Play Analysis III,Medium,/problems/game-play-analysis-iii,1
+512,Game Play Analysis II,Easy,/problems/game-play-analysis-ii,1
+511,Game Play Analysis I,Easy,/problems/game-play-analysis-i,1
+1242,Web Crawler Multithreaded,Medium,/problems/web-crawler-multithreaded,1
+2133,Check if Every Row and Column Contains All Numbers,Easy,/problems/check-if-every-row-and-column-contains-all-numbers,1
+1941,Check if All Characters Have Equal Number of Occurrences,Easy,/problems/check-if-all-characters-have-equal-number-of-occurrences,1
+1309,Decrypt String from Alphabet to Integer Mapping,Easy,/problems/decrypt-string-from-alphabet-to-integer-mapping,1
+761,Special Binary String,Hard,/problems/special-binary-string,1
+1836,Remove Duplicates From an Unsorted Linked List,Medium,/problems/remove-duplicates-from-an-unsorted-linked-list,1
+1395,Count Number of Teams,Medium,/problems/count-number-of-teams,1
+1086,High Five,Easy,/problems/high-five,1
+457,Circular Array Loop,Medium,/problems/circular-array-loop,1
+702,Search in a Sorted Array of Unknown Size,Medium,/problems/search-in-a-sorted-array-of-unknown-size,1
+809,Expressive Words,Medium,/problems/expressive-words,1
+1824,Minimum Sideway Jumps,Medium,/problems/minimum-sideway-jumps,1
+854,K-Similar Strings,Hard,/problems/k-similar-strings,1
+2264,Largest 3-Same-Digit Number in String,Easy,/problems/largest-3-same-digit-number-in-string,1
+1951,All the Pairs With the Maximum Number of Common Followers,Medium,/problems/all-the-pairs-with-the-maximum-number-of-common-followers,1
+1529,Minimum Suffix Flips,Medium,/problems/minimum-suffix-flips,1
+884,Uncommon Words from Two Sentences,Easy,/problems/uncommon-words-from-two-sentences,1
+2379,Minimum Recolors to Get K Consecutive Black Blocks,Easy,/problems/minimum-recolors-to-get-k-consecutive-black-blocks,1
+1803,Count Pairs With XOR in a Range,Hard,/problems/count-pairs-with-xor-in-a-range,1
+1974,Minimum Time to Type Word Using Special Typewriter,Easy,/problems/minimum-time-to-type-word-using-special-typewriter,1
+1839,Longest Substring Of All Vowels in Order,Medium,/problems/longest-substring-of-all-vowels-in-order,1
+2341,Maximum Number of Pairs in Array,Easy,/problems/maximum-number-of-pairs-in-array,1
+436,Find Right Interval,Medium,/problems/find-right-interval,1
+2016,Maximum Difference Between Increasing Elements,Easy,/problems/maximum-difference-between-increasing-elements,1
+501,Find Mode in Binary Search Tree,Easy,/problems/find-mode-in-binary-search-tree,1
+87,Scramble String,Hard,/problems/scramble-string,1
+1760,Minimum Limit of Balls in a Bag,Medium,/problems/minimum-limit-of-balls-in-a-bag,1
+52,N-Queens II,Hard,/problems/n-queens-ii,1
+302,Smallest Rectangle Enclosing Black Pixels,Hard,/problems/smallest-rectangle-enclosing-black-pixels,1
+919,Complete Binary Tree Inserter,Medium,/problems/complete-binary-tree-inserter,1
+1990,Count the Number of Experiments,Medium,/problems/count-the-number-of-experiments,1
+2027,Minimum Moves to Convert String,Easy,/problems/minimum-moves-to-convert-string,1
+1993,Operations on Tree,Medium,/problems/operations-on-tree,1
+1751,Maximum Number of Events That Can Be Attended II,Hard,/problems/maximum-number-of-events-that-can-be-attended-ii,1
+2273,Find Resultant Array After Removing Anagrams,Easy,/problems/find-resultant-array-after-removing-anagrams,1
+504,Base 7,Easy,/problems/base-7,1
+343,Integer Break,Medium,/problems/integer-break,1
+1898,Maximum Number of Removable Characters,Medium,/problems/maximum-number-of-removable-characters,1
+2406,Divide Intervals Into Minimum Number of Groups,Medium,/problems/divide-intervals-into-minimum-number-of-groups,1
+2227,Encrypt and Decrypt Strings,Hard,/problems/encrypt-and-decrypt-strings,1
+1761,Minimum Degree of a Connected Trio in a Graph,Hard,/problems/minimum-degree-of-a-connected-trio-in-a-graph,1
+1840,Maximum Building Height,Hard,/problems/maximum-building-height,1
+1598,Crawler Log Folder,Easy,/problems/crawler-log-folder,1
+1188,Design Bounded Blocking Queue,Medium,/problems/design-bounded-blocking-queue,1
+464,Can I Win,Medium,/problems/can-i-win,1
+364,Nested List Weight Sum II,Medium,/problems/nested-list-weight-sum-ii,1
+360,Sort Transformed Array,Medium,/problems/sort-transformed-array,1
+272,Closest Binary Search Tree Value II,Hard,/problems/closest-binary-search-tree-value-ii,1
+245,Shortest Word Distance III,Medium,/problems/shortest-word-distance-iii,1
+187,Repeated DNA Sequences,Medium,/problems/repeated-dna-sequences,1
+156,Binary Tree Upside Down,Medium,/problems/binary-tree-upside-down,1
+2301,Match Substring After Replacement,Hard,/problems/match-substring-after-replacement,1
+991,Broken Calculator,Medium,/problems/broken-calculator,1
+2020,Number of Accounts That Did Not Stream,Medium,/problems/number-of-accounts-that-did-not-stream,1
+664,Strange Printer,Hard,/problems/strange-printer,1
+1006,Clumsy Factorial,Medium,/problems/clumsy-factorial,1
+388,Longest Absolute File Path,Medium,/problems/longest-absolute-file-path,1
+1977,Number of Ways to Separate Numbers,Hard,/problems/number-of-ways-to-separate-numbers,1
+2002,Maximum Product of the Length of Two Palindromic Subsequences,Medium,/problems/maximum-product-of-the-length-of-two-palindromic-subsequences,1
+1359,Count All Valid Pickup and Delivery Options,Hard,/problems/count-all-valid-pickup-and-delivery-options,1
+1342,Number of Steps to Reduce a Number to Zero,Easy,/problems/number-of-steps-to-reduce-a-number-to-zero,1
+2177,Find Three Consecutive Integers That Sum to a Given Number,Medium,/problems/find-three-consecutive-integers-that-sum-to-a-given-number,1
+2098,Subsequence of Size K With the Largest Even Sum,Medium,/problems/subsequence-of-size-k-with-the-largest-even-sum,1
+2259,Remove Digit From Number to Maximize Result,Easy,/problems/remove-digit-from-number-to-maximize-result,1
+2028,Find Missing Observations,Medium,/problems/find-missing-observations,1
+1822,Sign of the Product of an Array,Easy,/problems/sign-of-the-product-of-an-array,1
+1775,Equal Sum Arrays With Minimum Number of Operations,Medium,/problems/equal-sum-arrays-with-minimum-number-of-operations,1
+1712,Ways to Split Array Into Three Subarrays,Medium,/problems/ways-to-split-array-into-three-subarrays,1
+1653,Minimum Deletions to Make String Balanced,Medium,/problems/minimum-deletions-to-make-string-balanced,1
+1584,Min Cost to Connect All Points,Medium,/problems/min-cost-to-connect-all-points,1
+1551,Minimum Operations to Make Array Equal,Medium,/problems/minimum-operations-to-make-array-equal,1
+1487,Making File Names Unique,Medium,/problems/making-file-names-unique,1
+1404,Number of Steps to Reduce a Number in Binary Representation to One,Medium,/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,1
+1386,Cinema Seat Allocation,Medium,/problems/cinema-seat-allocation,1
+1304,Find N Unique Integers Sum up to Zero,Easy,/problems/find-n-unique-integers-sum-up-to-zero,1
+1779,Find Nearest Point That Has the Same X or Y Coordinate,Easy,/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate,1
+713,Subarray Product Less Than K,Medium,/problems/subarray-product-less-than-k,1
+1027,Longest Arithmetic Subsequence,Medium,/problems/longest-arithmetic-subsequence,1
+885,Spiral Matrix III,Medium,/problems/spiral-matrix-iii,1
+280,Wiggle Sort,Medium,/problems/wiggle-sort,1
+186,Reverse Words in a String II,Medium,/problems/reverse-words-in-a-string-ii,1
+147,Insertion Sort List,Medium,/problems/insertion-sort-list,1
+154,Find Minimum in Rotated Sorted Array II,Hard,/problems/find-minimum-in-rotated-sorted-array-ii,1
+2186,Minimum Number of Steps to Make Two Strings Anagram II,Medium,/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii,1
+1243,Array Transformation,Easy,/problems/array-transformation,1
+1180,Count Substrings with Only One Distinct Letter,Easy,/problems/count-substrings-with-only-one-distinct-letter,1
+631,Design Excel Sum Formula,Hard,/problems/design-excel-sum-formula,1
+2444,Count Subarrays With Fixed Bounds,Hard,/problems/count-subarrays-with-fixed-bounds,1
+2065,Maximum Path Quality of a Graph,Hard,/problems/maximum-path-quality-of-a-graph,1
+1802,Maximum Value at a Given Index in a Bounded Array,Medium,/problems/maximum-value-at-a-given-index-in-a-bounded-array,1
+2163,Minimum Difference in Sums After Removal of Elements,Hard,/problems/minimum-difference-in-sums-after-removal-of-elements,1
+2340,Minimum Adjacent Swaps to Make a Valid Array,Medium,/problems/minimum-adjacent-swaps-to-make-a-valid-array,1
+1889,Minimum Space Wasted From Packaging,Hard,/problems/minimum-space-wasted-from-packaging,1
+472,Concatenated Words,Hard,/problems/concatenated-words,1
+2158,Amount of New Area Painted Each Day,Hard,/problems/amount-of-new-area-painted-each-day,1
+2184,Number of Ways to Build Sturdy Brick Wall,Medium,/problems/number-of-ways-to-build-sturdy-brick-wall,1
+456,132 Pattern,Medium,/problems/132-pattern,1
+2250,Count Number of Rectangles Containing Each Point,Medium,/problems/count-number-of-rectangles-containing-each-point,1
+2258,Escape the Spreading Fire,Hard,/problems/escape-the-spreading-fire,1
+2271,Maximum White Tiles Covered by a Carpet,Medium,/problems/maximum-white-tiles-covered-by-a-carpet,1
+2337,Move Pieces to Obtain a String,Medium,/problems/move-pieces-to-obtain-a-string,1
+2331,Evaluate Boolean Binary Tree,Easy,/problems/evaluate-boolean-binary-tree,1
+2277,Closest Node to Path in Tree,Hard,/problems/closest-node-to-path-in-tree,1
+2364,Count Number of Bad Pairs,Medium,/problems/count-number-of-bad-pairs,1
+421,Maximum XOR of Two Numbers in an Array,Medium,/problems/maximum-xor-of-two-numbers-in-an-array,1
+2366,Minimum Replacements to Sort the Array,Hard,/problems/minimum-replacements-to-sort-the-array,1
+2402,Meeting Rooms III,Hard,/problems/meeting-rooms-iii,1
+2396,Strictly Palindromic Number,Medium,/problems/strictly-palindromic-number,1
+406,Queue Reconstruction by Height,Medium,/problems/queue-reconstruction-by-height,1
+402,Remove K Digits,Medium,/problems/remove-k-digits,1
+2345,Finding the Number of Visible Mountains,Medium,/problems/finding-the-number-of-visible-mountains,1
+2416,Sum of Prefix Scores of Strings,Hard,/problems/sum-of-prefix-scores-of-strings,1
+2421,Number of Good Paths,Hard,/problems/number-of-good-paths,1
+2426,Number of Pairs Satisfying Inequality,Hard,/problems/number-of-pairs-satisfying-inequality,1
+2435,Paths in Matrix Whose Sum Is Divisible by K,Hard,/problems/paths-in-matrix-whose-sum-is-divisible-by-k,1
+161,One Edit Distance,Medium,/problems/one-edit-distance,1
+324,Wiggle Sort II,Medium,/problems/wiggle-sort-ii,1
+228,Summary Ranges,Easy,/problems/summary-ranges,1
+309,Best Time to Buy and Sell Stock with Cooldown,Medium,/problems/best-time-to-buy-and-sell-stock-with-cooldown,1
+307,Range Sum Query - Mutable,Medium,/problems/range-sum-query-mutable,1
+356,Line Reflection,Medium,/problems/line-reflection,1
+1493,Longest Subarray of 1's After Deleting One Element,Medium,/problems/longest-subarray-of-1s-after-deleting-one-element,1
+475,Heaters,Medium,/problems/heaters,1
+2188,Minimum Time to Finish the Race,Hard,/problems/minimum-time-to-finish-the-race,1
+2185,Counting Words With a Given Prefix,Easy,/problems/counting-words-with-a-given-prefix,1
+2092,Find All People With Secret,Hard,/problems/find-all-people-with-secret,1
+1937,Maximum Number of Points with Cost,Medium,/problems/maximum-number-of-points-with-cost,1
+719,Find K-th Smallest Pair Distance,Hard,/problems/find-k-th-smallest-pair-distance,1
+1971,Find if Path Exists in Graph,Easy,/problems/find-if-path-exists-in-graph,1
+2013,Detect Squares,Medium,/problems/detect-squares,1
+688,Knight Probability in Chessboard,Medium,/problems/knight-probability-in-chessboard,1
+681,Next Closest Time,Medium,/problems/next-closest-time,1
+669,Trim a Binary Search Tree,Medium,/problems/trim-a-binary-search-tree,1
+2018,Check if Word Can Be Placed In Crossword,Medium,/problems/check-if-word-can-be-placed-in-crossword,1
+648,Replace Words,Medium,/problems/replace-words,1
+646,Maximum Length of Pair Chain,Medium,/problems/maximum-length-of-pair-chain,1
+645,Set Mismatch,Easy,/problems/set-mismatch,1
+2101,Detonate the Maximum Bombs,Medium,/problems/detonate-the-maximum-bombs,1
+618,Students Report By Geography,Hard,/problems/students-report-by-geography,1
+603,Consecutive Available Seats,Easy,/problems/consecutive-available-seats,1
+506,Relative Ranks,Easy,/problems/relative-ranks,1
+2135,Count Words Obtained After Adding a Letter,Medium,/problems/count-words-obtained-after-adding-a-letter,1
+2161,Partition Array According to Given Pivot,Medium,/problems/partition-array-according-to-given-pivot,1
+2162,Minimum Cost to Set Cooking Time,Medium,/problems/minimum-cost-to-set-cooking-time,1
+2128,Remove All Ones With Row and Column Flips,Medium,/problems/remove-all-ones-with-row-and-column-flips,1
+2178,Maximum Split of Positive Even Integers,Medium,/problems/maximum-split-of-positive-even-integers,1
+545,Boundary of Binary Tree,Medium,/problems/boundary-of-binary-tree,1
+2171,Removing Minimum Number of Magic Beans,Medium,/problems/removing-minimum-number-of-magic-beans,1
+538,Convert BST to Greater Tree,Medium,/problems/convert-bst-to-greater-tree,1
+531,Lonely Pixel I,Medium,/problems/lonely-pixel-i,1
+530,Minimum Absolute Difference in BST,Easy,/problems/minimum-absolute-difference-in-bst,1
+527,Word Abbreviation,Hard,/problems/word-abbreviation,1
+2172,Maximum AND Sum of Array,Hard,/problems/maximum-and-sum-of-array,1
+516,Longest Palindromic Subsequence,Medium,/problems/longest-palindromic-subsequence,1
+265,Paint House II,Hard,/problems/paint-house-ii,1
+262,Trips and Users,Hard,/problems/trips-and-users,1
+1253,Reconstruct a 2-Row Binary Matrix,Medium,/problems/reconstruct-a-2-row-binary-matrix,1
+825,Friends Of Appropriate Ages,Medium,/problems/friends-of-appropriate-ages,1
+1859,Sorting the Sentence,Easy,/problems/sorting-the-sentence,1
+1367,Linked List in Binary Tree,Medium,/problems/linked-list-in-binary-tree,1
+1644,Lowest Common Ancestor of a Binary Tree II,Medium,/problems/lowest-common-ancestor-of-a-binary-tree-ii,1
+1424,Diagonal Traverse II,Medium,/problems/diagonal-traverse-ii,1
+1319,Number of Operations to Make Network Connected,Medium,/problems/number-of-operations-to-make-network-connected,1
+655,Print Binary Tree,Medium,/problems/print-binary-tree,1
+1382,Balance a Binary Search Tree,Medium,/problems/balance-a-binary-search-tree,1
+1141,User Activity for the Past 30 Days I,Easy,/problems/user-activity-for-the-past-30-days-i,1
+1123,Lowest Common Ancestor of Deepest Leaves,Medium,/problems/lowest-common-ancestor-of-deepest-leaves,1
+1108,Defanging an IP Address,Easy,/problems/defanging-an-ip-address,1
+2106,Maximum Fruits Harvested After at Most K Steps,Hard,/problems/maximum-fruits-harvested-after-at-most-k-steps,1
+2005,Subtree Removal Game with Fibonacci Tree,Hard,/problems/subtree-removal-game-with-fibonacci-tree,1
+896,Monotonic Array,Easy,/problems/monotonic-array,1
+1636,Sort Array by Increasing Frequency,Easy,/problems/sort-array-by-increasing-frequency,1
+2024,Maximize the Confusion of an Exam,Medium,/problems/maximize-the-confusion-of-an-exam,1
+708,Insert into a Sorted Circular Linked List,Medium,/problems/insert-into-a-sorted-circular-linked-list,1
+370,Range Addition,Medium,/problems/range-addition,1
+910,Smallest Range II,Medium,/problems/smallest-range-ii,1
+766,Toeplitz Matrix,Easy,/problems/toeplitz-matrix,1
+2361,Minimum Costs Using the Train Line,Hard,/problems/minimum-costs-using-the-train-line,1
+426,Convert Binary Search Tree to Sorted Doubly Linked List,Medium,/problems/convert-binary-search-tree-to-sorted-doubly-linked-list,1
+689,Maximum Sum of 3 Non-Overlapping Subarrays,Hard,/problems/maximum-sum-of-3-non-overlapping-subarrays,1
+171,Excel Sheet Column Number,Easy,/problems/excel-sheet-column-number,1
+674,Longest Continuous Increasing Subsequence,Easy,/problems/longest-continuous-increasing-subsequence,1
+643,Maximum Average Subarray I,Easy,/problems/maximum-average-subarray-i,1
+266,Palindrome Permutation,Easy,/problems/palindrome-permutation,1
+298,Binary Tree Longest Consecutive Sequence,Medium,/problems/binary-tree-longest-consecutive-sequence,1
+303,Range Sum Query - Immutable,Easy,/problems/range-sum-query-immutable,1
+1891,Cutting Ribbons,Medium,/problems/cutting-ribbons,1
+2210,Count Hills and Valleys in an Array,Easy,/problems/count-hills-and-valleys-in-an-array,1
+1375,Number of Times Binary String Is Prefix-Aligned,Medium,/problems/number-of-times-binary-string-is-prefix-aligned,1
+2087,Minimum Cost Homecoming of a Robot in a Grid,Medium,/problems/minimum-cost-homecoming-of-a-robot-in-a-grid,1
+1911,Maximum Alternating Subsequence Sum,Medium,/problems/maximum-alternating-subsequence-sum,1
+478,Generate Random Point in a Circle,Medium,/problems/generate-random-point-in-a-circle,1
+1294,Weather Type in Each Country,Easy,/problems/weather-type-in-each-country,1
+220,Contains Duplicate III,Hard,/problems/contains-duplicate-iii,1
+1321,Restaurant Growth,Medium,/problems/restaurant-growth,1
+197,Rising Temperature,Easy,/problems/rising-temperature,1
+1378,Replace Employee ID With The Unique Identifier,Easy,/problems/replace-employee-id-with-the-unique-identifier,1
+185,Department Top Three Salaries,Hard,/problems/department-top-three-salaries,1
+184,Department Highest Salary,Medium,/problems/department-highest-salary,1
+1407,Top Travellers,Easy,/problems/top-travellers,1
+1440,Evaluate Boolean Expression,Medium,/problems/evaluate-boolean-expression,1
+178,Rank Scores,Medium,/problems/rank-scores,1
+177,Nth Highest Salary,Medium,/problems/nth-highest-salary,1
+1901,Find a Peak Element II,Medium,/problems/find-a-peak-element-ii,1
+880,Decoded String at Index,Medium,/problems/decoded-string-at-index,1
+2017,Grid Game,Medium,/problems/grid-game,1
+142,Linked List Cycle II,Medium,/problems/linked-list-cycle-ii,1
+1210,Minimum Moves to Reach Target with Rotations,Hard,/problems/minimum-moves-to-reach-target-with-rotations,1
+119,Pascal's Triangle II,Easy,/problems/pascals-triangle-ii,1
+2212,Maximum Points in an Archery Competition,Medium,/problems/maximum-points-in-an-archery-competition,1
+111,Minimum Depth of Binary Tree,Easy,/problems/minimum-depth-of-binary-tree,1
+1419,Minimum Number of Frogs Croaking,Medium,/problems/minimum-number-of-frogs-croaking,1
+107,Binary Tree Level Order Traversal II,Medium,/problems/binary-tree-level-order-traversal-ii,1
+106,Construct Binary Tree from Inorder and Postorder Traversal,Medium,/problems/construct-binary-tree-from-inorder-and-postorder-traversal,1
+1716,Calculate Money in Leetcode Bank,Easy,/problems/calculate-money-in-leetcode-bank,1
+85,Maximal Rectangle,Hard,/problems/maximal-rectangle,1
+81,Search in Rotated Sorted Array II,Medium,/problems/search-in-rotated-sorted-array-ii,1
+835,Image Overlap,Medium,/problems/image-overlap,1
+1885,Count Pairs in Two Arrays,Medium,/problems/count-pairs-in-two-arrays,1
+781,Rabbits in Forest,Medium,/problems/rabbits-in-forest,1
+2386,Find the K-Sum of an Array,Hard,/problems/find-the-k-sum-of-an-array,1
+784,Letter Case Permutation,Medium,/problems/letter-case-permutation,1
+2055,Plates Between Candles,Medium,/problems/plates-between-candles,1
+1972,First and Last Call On the Same Day,Hard,/problems/first-and-last-call-on-the-same-day,1
+1962,Remove Stones to Minimize the Total,Medium,/problems/remove-stones-to-minimize-the-total,1
+1926,Nearest Exit from Entrance in Maze,Medium,/problems/nearest-exit-from-entrance-in-maze,1
+1864,Minimum Number of Swaps to Make the Binary String Alternating,Medium,/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating,1
+1863,Sum of All Subset XOR Totals,Easy,/problems/sum-of-all-subset-xor-totals,1
+1876,Substrings of Size Three with Distinct Characters,Easy,/problems/substrings-of-size-three-with-distinct-characters,1
+1856,Maximum Subarray Min-Product,Medium,/problems/maximum-subarray-min-product,1
+1757,Recyclable and Low Fat Products,Easy,/problems/recyclable-and-low-fat-products,1
+1055,Shortest Way to Form String,Medium,/problems/shortest-way-to-form-string,1
+1014,Best Sightseeing Pair,Medium,/problems/best-sightseeing-pair,1
+1705,Maximum Number of Eaten Apples,Medium,/problems/maximum-number-of-eaten-apples,1
+1088,Confusing Number II,Hard,/problems/confusing-number-ii,1
+1021,Remove Outermost Parentheses,Easy,/problems/remove-outermost-parentheses,1
+1680,Concatenation of Consecutive Binary Numbers,Medium,/problems/concatenation-of-consecutive-binary-numbers,1
+1673,Find the Most Competitive Subsequence,Medium,/problems/find-the-most-competitive-subsequence,1
+1628,Design an Expression Tree With Evaluate Function,Medium,/problems/design-an-expression-tree-with-evaluate-function,1
+1597,Build Binary Expression Tree From Infix Expression,Hard,/problems/build-binary-expression-tree-from-infix-expression,1
+1609,Even Odd Tree,Medium,/problems/even-odd-tree,1
+1581,Customer Who Visited but Did Not Make Any Transactions,Easy,/problems/customer-who-visited-but-did-not-make-any-transactions,1
+1101,The Earliest Moment When Everyone Become Friends,Medium,/problems/the-earliest-moment-when-everyone-become-friends,1
+1563,Stone Game V,Hard,/problems/stone-game-v,1
+1136,Parallel Courses,Medium,/problems/parallel-courses,1
+1523,Count Odd Numbers in an Interval Range,Easy,/problems/count-odd-numbers-in-an-interval-range,1
+1497,Check If Array Pairs Are Divisible by k,Medium,/problems/check-if-array-pairs-are-divisible-by-k,1
+1492,The kth Factor of n,Medium,/problems/the-kth-factor-of-n,1
+1074,Number of Submatrices That Sum to Target,Hard,/problems/number-of-submatrices-that-sum-to-target,1
+1454,Active Users,Medium,/problems/active-users,1
+1464,Maximum Product of Two Elements in an Array,Easy,/problems/maximum-product-of-two-elements-in-an-array,1
+951,Flip Equivalent Binary Trees,Medium,/problems/flip-equivalent-binary-trees,1
+2075,Decode the Slanted Ciphertext,Medium,/problems/decode-the-slanted-ciphertext,1
+2100,Find Good Days to Rob the Bank,Medium,/problems/find-good-days-to-rob-the-bank,1
+2244,Minimum Rounds to Complete All Tasks,Medium,/problems/minimum-rounds-to-complete-all-tasks,1
+2385,Amount of Time for Binary Tree to Be Infected,Medium,/problems/amount-of-time-for-binary-tree-to-be-infected,1
+2398,Maximum Number of Robots Within Budget,Hard,/problems/maximum-number-of-robots-within-budget,1
+2357,Make Array Zero by Subtracting Equal Amounts,Easy,/problems/make-array-zero-by-subtracting-equal-amounts,1
+2350,Shortest Impossible Sequence of Rolls,Hard,/problems/shortest-impossible-sequence-of-rolls,1
+2347,Best Poker Hand,Easy,/problems/best-poker-hand,1
+2327,Number of People Aware of a Secret,Medium,/problems/number-of-people-aware-of-a-secret,1
+2268,Minimum Number of Keypresses,Medium,/problems/minimum-number-of-keypresses,1
+2302,Count Subarrays With Score Less Than K,Hard,/problems/count-subarrays-with-score-less-than-k,1
+2294,Partition Array Such That Maximum Difference Is K,Medium,/problems/partition-array-such-that-maximum-difference-is-k,1
+2289,Steps to Make Array Non-decreasing,Medium,/problems/steps-to-make-array-non-decreasing,1
+2288,Apply Discount to Prices,Medium,/problems/apply-discount-to-prices,1
+2287,Rearrange Characters to Make Target String,Easy,/problems/rearrange-characters-to-make-target-string,1
+2281,Sum of Total Strength of Wizards,Hard,/problems/sum-of-total-strength-of-wizards,1
+2272,Substring With Largest Variance,Hard,/problems/substring-with-largest-variance,1
+2102,Sequentially Ordinal Rank Tracker,Hard,/problems/sequentially-ordinal-rank-tracker,1
+2214,Minimum Health to Beat Game,Medium,/problems/minimum-health-to-beat-game,1
+2265,Count Nodes Equal to Average of Subtree,Medium,/problems/count-nodes-equal-to-average-of-subtree,1
+2256,Minimum Average Difference,Medium,/problems/minimum-average-difference,1
+2262,Total Appeal of A String,Hard,/problems/total-appeal-of-a-string,1
+2234,Maximum Total Beauty of the Gardens,Hard,/problems/maximum-total-beauty-of-the-gardens,1
+2222,Number of Ways to Select Buildings,Medium,/problems/number-of-ways-to-select-buildings,1
+2221,Find Triangular Sum of an Array,Medium,/problems/find-triangular-sum-of-an-array,1
+2195,Append K Integers With Minimal Sum,Medium,/problems/append-k-integers-with-minimal-sum,1
+398,Random Pick Index,Medium,/problems/random-pick-index,1
+2130,Maximum Twin Sum of a Linked List,Medium,/problems/maximum-twin-sum-of-a-linked-list,1
+2110,Number of Smooth Descent Periods of a Stock,Medium,/problems/number-of-smooth-descent-periods-of-a-stock,1
+2109,Adding Spaces to a String,Medium,/problems/adding-spaces-to-a-string,1
+2104,Sum of Subarray Ranges,Medium,/problems/sum-of-subarray-ranges,1
+1461,Check If a String Contains All Binary Codes of Size K,Medium,/problems/check-if-a-string-contains-all-binary-codes-of-size-k,1
+1105,Filling Bookcase Shelves,Medium,/problems/filling-bookcase-shelves,1
+1408,String Matching in an Array,Easy,/problems/string-matching-in-an-array,1
+901,Online Stock Span,Medium,/problems/online-stock-span,1
+1016,Binary String With Substrings Representing 1 To N,Medium,/problems/binary-string-with-substrings-representing-1-to-n,1
+1060,Missing Element in Sorted Array,Medium,/problems/missing-element-in-sorted-array,1
+1509,Minimum Difference Between Largest and Smallest Value in Three Moves,Medium,/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves,1
+1499,Max Value of Equation,Hard,/problems/max-value-of-equation,1
+979,Distribute Coins in Binary Tree,Medium,/problems/distribute-coins-in-binary-tree,1
+962,Maximum Width Ramp,Medium,/problems/maximum-width-ramp,1
+949,Largest Time for Given Digits,Medium,/problems/largest-time-for-given-digits,1
+1528,Shuffle String,Easy,/problems/shuffle-string,1
+926,Flip String to Monotone Increasing,Medium,/problems/flip-string-to-monotone-increasing,1
+909,Snakes and Ladders,Medium,/problems/snakes-and-ladders,1
+907,Sum of Subarray Minimums,Medium,/problems/sum-of-subarray-minimums,1
+1554,Strings Differ by One Character,Medium,/problems/strings-differ-by-one-character,1
+903,Valid Permutations for DI Sequence,Hard,/problems/valid-permutations-for-di-sequence,1
+1606,Find Servers That Handled Most Number of Requests,Hard,/problems/find-servers-that-handled-most-number-of-requests,1
+1026,Maximum Difference Between Node and Ancestor,Medium,/problems/maximum-difference-between-node-and-ancestor,1
+1608,Special Array With X Elements Greater Than or Equal X,Easy,/problems/special-array-with-x-elements-greater-than-or-equal-x,1
+1610,Maximum Number of Visible Points,Hard,/problems/maximum-number-of-visible-points,1
+857,Minimum Cost to Hire K Workers,Hard,/problems/minimum-cost-to-hire-k-workers,1
+847,Shortest Path Visiting All Nodes,Hard,/problems/shortest-path-visiting-all-nodes,1
+841,Keys and Rooms,Medium,/problems/keys-and-rooms,1
+1631,Path With Minimum Effort,Medium,/problems/path-with-minimum-effort,1
+1669,Merge In Between Linked Lists,Medium,/problems/merge-in-between-linked-lists,1
+1697,Checking Existence of Edge Length Limited Paths,Hard,/problems/checking-existence-of-edge-length-limited-paths,1
+819,Most Common Word,Easy,/problems/most-common-word,1
+1825,Finding MK Average,Hard,/problems/finding-mk-average,1
+814,Binary Tree Pruning,Medium,/problems/binary-tree-pruning,1
+1820,Maximum Number of Accepted Invitations,Medium,/problems/maximum-number-of-accepted-invitations,1
+1851,Minimum Interval to Include Each Query,Hard,/problems/minimum-interval-to-include-each-query,1
+1020,Number of Enclaves,Medium,/problems/number-of-enclaves,1
+1473,Paint House III,Hard,/problems/paint-house-iii,1
+1138,Alphabet Board Path,Medium,/problems/alphabet-board-path,1
+1218,Longest Arithmetic Subsequence of Given Difference,Medium,/problems/longest-arithmetic-subsequence-of-given-difference,1
+1385,Find the Distance Value Between Two Arrays,Easy,/problems/find-the-distance-value-between-two-arrays,1
+1365,How Many Numbers Are Smaller Than the Current Number,Easy,/problems/how-many-numbers-are-smaller-than-the-current-number,1
+1372,Longest ZigZag Path in a Binary Tree,Medium,/problems/longest-zigzag-path-in-a-binary-tree,1
+1313,Decompress Run-Length Encoded List,Easy,/problems/decompress-run-length-encoded-list,1
+1302,Deepest Leaves Sum,Medium,/problems/deepest-leaves-sum,1
+1632,Rank Transform of a Matrix,Hard,/problems/rank-transform-of-a-matrix,1
+1171,Remove Zero Sum Consecutive Nodes from Linked List,Medium,/problems/remove-zero-sum-consecutive-nodes-from-linked-list,1
+1306,Jump Game III,Medium,/problems/jump-game-iii,1
+1429,First Unique Number,Medium,/problems/first-unique-number,1
+1726,Tuple with Same Product,Medium,/problems/tuple-with-same-product,1
+1363,Largest Multiple of Three,Hard,/problems/largest-multiple-of-three,1
+1203,Sort Items by Groups Respecting Dependencies,Hard,/problems/sort-items-by-groups-respecting-dependencies,1
+1944,Number of Visible People in a Queue,Hard,/problems/number-of-visible-people-in-a-queue,1
+2139,Minimum Moves to Reach Target Score,Medium,/problems/minimum-moves-to-reach-target-score,1
+1151,Minimum Swaps to Group All 1's Together,Medium,/problems/minimum-swaps-to-group-all-1s-together,1
+1179,Reformat Department Table,Easy,/problems/reformat-department-table,1
+1191,K-Concatenation Maximum Sum,Medium,/problems/k-concatenation-maximum-sum,1
+1360,Number of Days Between Two Dates,Easy,/problems/number-of-days-between-two-dates,1
+1254,Number of Closed Islands,Medium,/problems/number-of-closed-islands,1
+1299,Replace Elements with Greatest Element on Right Side,Easy,/problems/replace-elements-with-greatest-element-on-right-side,1
+1130,Minimum Cost Tree From Leaf Values,Medium,/problems/minimum-cost-tree-from-leaf-values,1
+1263,Minimum Moves to Move a Box to Their Target Location,Hard,/problems/minimum-moves-to-move-a-box-to-their-target-location,1
+2215,Find the Difference of Two Arrays,Easy,/problems/find-the-difference-of-two-arrays,1
+1167,Minimum Cost to Connect Sticks,Medium,/problems/minimum-cost-to-connect-sticks,1
+1284,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,Hard,/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix,1
+1296,Divide Array in Sets of K Consecutive Numbers,Medium,/problems/divide-array-in-sets-of-k-consecutive-numbers,1
+1038,Binary Search Tree to Greater Sum Tree,Medium,/problems/binary-search-tree-to-greater-sum-tree,1
+1376,Time Needed to Inform All Employees,Medium,/problems/time-needed-to-inform-all-employees,1
+1097,Game Play Analysis V,Hard,/problems/game-play-analysis-v,1
